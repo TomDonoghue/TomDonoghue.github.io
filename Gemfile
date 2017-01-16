@@ -1,6 +1,9 @@
 source 'http://rubygems.org'
 
-gem 'jekyll', '3.3.1'
+gem 'jekyll'
 
 # Jekyll themes
-gem "minima"
+gem "jekyll-theme-cayman"
+
+# I think this should work, but fails on install, with version issues
+#gem "github-pages", group: :jekyll_plugins"
