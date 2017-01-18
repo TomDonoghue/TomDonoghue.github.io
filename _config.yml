@@ -1,4 +1,5 @@
 title: 'Toms Website'
 description: 'Blog'
 
+#theme: minima
 theme: jekyll-theme-cayman
