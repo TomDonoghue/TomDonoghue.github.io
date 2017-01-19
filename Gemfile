@@ -2,6 +2,8 @@ source 'http://rubygems.org'
 
 gem 'jekyll'
 
+gem 'jekyll-paginate'
+
 # Jekyll themes
 gem "jekyll-theme-cayman"
 #gem "minima"
