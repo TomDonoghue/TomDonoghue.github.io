@@ -1,5 +1,12 @@
 title: 'Toms Website'
 description: 'Blog'
 
+name: 'Cognitive Musings'
+url: https://tomdonoghue.github.io
+
 #theme: minima
 theme: jekyll-theme-cayman
+
+#
+twitter_username:     TomDonoghue
+github_username:      TomDonoghue
