@@ -1,5 +1,15 @@
 ---
-layout: page
+layout: default
 ---
 
-I research things.
+## Phase Selective Presentation
+
+Words, words, words.
+
+## Oscillation Mapping
+
+Words, words, words.
+
+## Automated Meta-Analysis: ERPs
+
+Words, words, words.

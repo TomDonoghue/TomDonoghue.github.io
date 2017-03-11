@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: default
 ---
 
-I like to talk about things.
+## Useful Science
+
+Words, words, words.
