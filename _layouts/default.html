@@ -16,31 +16,12 @@
   <body>
 
     {% include header.html %}
-    <!--
-    <section class="page-header">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-      <a href="/" class="btn">Home</a>
-      <a href="/about.html" class="btn">About</a>
-      <a href="/blog.html" class="btn">Blog</a>
-      <a href="/research.html" class="btn">Research</a>
-      <a href="/teaching.html" class="btn">Teaching</a>
-      <a href="/outreach.html" class="btn">Outreach</a>
-      <a href="https://github.com/{{ site.twitter_username }}" class="btn">
-        <i class="fa fa-github"></i> Github
-      </a>
-      <a href="https://twitter.com/{{ site.twitter_username }}" class="btn">
-        <i class="fa fa-twitter"></i> Twitter
-      </a>
-
-    </section>
-    -->
 
     <section class="main-content">
       {{ content }}
     </section>
 
+    <!---
     {% if site.google_analytics %}
       <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -53,6 +34,7 @@
         } catch(err) {}
       </script>
     {% endif %}
+  -->
 
     {% include footer.html %}
 
