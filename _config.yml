@@ -4,8 +4,10 @@ description: 'Some kind of Cognitive (Neuro?) Scientist (in training)'
 name: 'Cognitive Musings'
 url: https://tomdonoghue.github.io
 
-#theme: minima
 theme: jekyll-theme-cayman
+
+# Google analytics services
+google_analytics: UA-93965597-1
 
 #
 twitter_username:     TomDonoghue
