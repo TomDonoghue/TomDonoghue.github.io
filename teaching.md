@@ -2,13 +2,15 @@
 layout: default
 ---
 
-### Academic Connections
+## Academic Connections
+
+![AC_2015]({{ site.url }}/assets/{{ page.title }}/pics/AC_web.png)
 
 With co-instructor & fellow graduate student Eric Leonardis, we created and teach a class for the Academic Connections program at UC San Diego, which offers intensive (75 hours of class over 3 weeks), undergraduate-level courses to advanced high school students.
 We teach a class on Cognitive Science, details and outline available [here](https://academicconnections.ucsd.edu/courses/intro-cogsci.html).
 
 
-### Teaching Assistant
+## Teaching Assistant
 I often serve as a teaching assistant in the Cognitive Science Department as UC San Diego.
 
 Upcoming Appointments:
