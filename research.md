@@ -16,7 +16,7 @@ Conference posters are available by clicking on the links, and where projects ar
 
 ## Oscillation Mapping
 
-![MEG]({{ site.url }}/assets/{{ page.title }}/pics/MEG_web.png)
+![MEG]({{ site.url }}/assets/pics/MEG_web.png)
 
 tl-dr: The 'what, when, and where' of cortical oscillations.
 
@@ -26,7 +26,7 @@ This project has been presented at [Biomag-2016](https://www.dropbox.com/s/actfr
 
 ## Oscillatory Phase
 
-![Phase]({{ site.url }}/assets/{{ page.title }}/pics/Phase_web.png)
+![Phase]({{ site.url }}/assets/pics/Phase_web.png)
 
 tl-dr: What's up with oscillatory phase? Who knows. Let's try and find out!
 
@@ -36,7 +36,7 @@ The online presentation brain-computer interface and task validation was present
 
 ## Automated Meta-Analysis of ERPs
 
-![ERP]({{ site.url }}/assets/{{ page.title }}/pics/ERP_web.png)
+![ERP]({{ site.url }}/assets/pics/ERP_web.png)
 
 tl-dr: I tried to find a shortcut to reading the ERP literature.
 
