@@ -4,7 +4,7 @@ layout: default
 
 # Welcome!
 
-Hello! I am a PhD Student in the Cognitive Science department at UC San Diego, working in the [Voytek Lab](http://www.voyteklab.com), where we largely focus on understanding the role of neural oscillations in neural computation, cognition and disease. I also have interests in the broader areas of Cognitive Science. I also [teach](teaching.html) quite a lot, [blog](blog.html) sometimes, and like to [chat science](scicom.html). If you want the quickest summary of my professional life convenintly written down, you can check out my [CV]({{ site.url }}/assets/CV.pdf).
+Hello! I am a PhD Student in the Cognitive Science department at UC San Diego, working in the [Voytek Lab](http://www.voyteklab.com), where we largely focus on understanding the role of neural oscillations in neural computation, cognition and disease. I also have interests in the broader areas of Cognitive Science. I also [teach](teaching.html) quite a lot, [blog](blog.html) sometimes, and like to [chat science](scicom.html). If you want the quickest summary of my professional life conveniently written down, you can check out my [CV]({{ site.url }}/assets/CV.pdf).
 
 ## Research Overview
 
