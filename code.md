@@ -14,7 +14,7 @@ I now use [Psychopy](http://www.psychopy.org) for running behavioural experiment
 
 Note that these outlines were developed with basic perceptual experiments with thresholding followed by blocks of large numbers of simple trials, and so they are probably most relevant to that kind of design. There are also templates available for online experiments, related to my [Phase Projects](research.html), for which the actual online presentation code is not yet released. On Github [here.](https://github.com/TomDonoghue/psychopy_templates)
 
-### Python Introductary Tutorials
+### Python Introductory Tutorials
 
 As extra-materials for an Introduction to Data Science Class at UC San Diego, I wrote out some introductory materials for exploring Python, in particular for Data Science applications. Note that these notebooks are in Python2, and might be out of date. Available on Github [here.](https://github.com/TomDonoghue/python2_tutorials)
 
