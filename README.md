@@ -1,3 +1,3 @@
-## Welcome to Tom's Webpage
+## Welcome to Tom's website source. 
 
-It will have stuff soon. 
+You can check out the actual site here: https://tomdonoghue.github.io
