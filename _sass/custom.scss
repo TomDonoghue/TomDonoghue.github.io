@@ -19,3 +19,19 @@
   font-size: .9rem;
   color: light-grey;
 }
+
+.center {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Image sizing for plog posts - CdeMX Post*/
+img[alt=WholeGroup] { width: 750px;}
+img[alt=Instructors] { width: 600px;}
+img[alt=ClassTrip] { width: 600px;}
+img[alt=BotsBrain] { width: 400px;}
+img[alt=Board] { width: 300px;}
