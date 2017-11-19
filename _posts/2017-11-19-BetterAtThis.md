@@ -16,7 +16,7 @@ comments: true
 
 <hr>
 {: .center}
-![SfN2015]({{ site.url }}/assets/blog_pics/GetBetter/SfN_2015.jpg)
+![SfN2015]({{ site.url }}/assets/blog_pics/GetBetter/SfN.jpg)
 
 *My first conference presenting a poster was SfN 2015. I went straight from all night working on my project, to the airport.*
 {:.image-caption}
