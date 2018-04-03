@@ -62,6 +62,7 @@ A piece of this work, validating the background-fitting procedure, was presented
 
 ### Conference Posters
 
+- CNS 2018 - [Alpha Power and 1/f Slope Provide Independent Decoding of Visual Spatial Attention](https://www.dropbox.com/s/72y86jege2lx0sf/Donoghue&Voytek_CNS2018_EEGDecoding.pdf?dl=0)
 - SfN 2017 - [Assessing Approaches for Estimating the Electrophysiological 1/f Background Spectrum](https://www.dropbox.com/s/d5zxqdw55my79dx/DonoghueT_SfN2017.pdf?dl=0)
 - CNS 2017 - [Automated Meta-Analysis of Event-Related Potentials and their Correlates through Text-Mining](https://www.dropbox.com/s/sgnz7ecd3qp6tb7/TDonoghue_ERPSCANR_CNS2017.pdf?dl=0)
 - SfN 2016 - [Data Mining to Generate Novel Hypotheses for the Genetic Underpinnings and Functional Roles of Cortical Oscillations](https://www.dropbox.com/s/4sqn0pudpqycu4r/SebastianDonoghueEtal_MEGmapping_SfN2016.pdf?dl=0)
