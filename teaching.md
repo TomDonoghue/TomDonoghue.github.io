@@ -40,7 +40,7 @@ In Summer of 2017 I spent a week teaching a short course in Monterrey, Mexico wi
 With co-instructor & fellow graduate student Eric Leonardis, we created and teach a class for the Academic Connections program at UC San Diego, which offers intensive (75 hours of class over 3 weeks), undergraduate-level courses to advanced high school students. So far we have taught the class for three iterations, each summer from 2015-2017.
 We teach a class on Cognitive Science, details and outline available [here](https://academicconnections.ucsd.edu/courses/intro-cogsci.html).
 
-## UCSD Cogntive Science: Teaching Assistant
+## UCSD Cognitive Science: Teaching Assistant
 I often serve as a teaching assistant in the Cognitive Science Department at UC San Diego.
 
 Past Appointments:
