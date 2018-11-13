@@ -69,6 +69,7 @@ If you are interested in these kinds of analysis, a generalized Python module fo
 
 ### Conference Posters
 
+- SfN 2018 - [Parameterization of Periodic and Aperiodic Human Electrophysiology](https://www.dropbox.com/s/alwwb6ahb1wjank/MdandaEtal-SfN2018.pdf?dl=0)
 - Biomag 2018 - [Large-Scale Topographical Analysis of Electrophysiological 1/f and Oscillations Reveals Patterns of Spatial Variation](https://www.dropbox.com/s/k5koyibwuaclx5k/DonoghueEtal-Biomag2018.pdf?dl=0)
 - INCF 2018 - [Integrating Human Electrophysiology, Gene Expression and Functional Data](https://www.dropbox.com/s/al0bggj4mgqffat/DonoghueEtal-Neuroinformatics2018.pdf?dl=0)
 - CogSci 2018 - [Confidence Levels in Scientific Writing](https://www.dropbox.com/s/i41jllv5ojf9qno/Fox%26Donoghue_ConfidenceScanner_CogSciPoster.pdf?dl=0)
