@@ -28,6 +28,8 @@ We have developed a method for measuring periodic and aperiodic activity from ne
 
 This approach embodies the notion that that oscillatory activity (periodic components) and 1/f-like activity (the aperiodic component) are separate processes, and should be measured explicitly, else measures can conflate the two. In related work, we have explored how these components can be conflated in many analysis approaches, for example, examing how 1/f-like activity influences oscillatory band-ratio measures, a project that was presented at [CNS-2019](https://www.dropbox.com/s/4lghj9218s4hgix/DomiguezEtal_BandRatiosPoster.pdf?dl=0).
 
+As part of this work, we have been evaluating and exporing related methods to analyze periodic and aperiodic neural activity. Part of this line of work, exploring 1/f methods and results, was presented at [SfN-2017](https://www.dropbox.com/s/d5zxqdw55my79dx/DonoghueT_SfN2017.pdf?dl=0). Follow up work developing a simulation based approach and using this to explore method properties and adjudicate between them has been presented at [CCN-2019](https://www.dropbox.com/s/9qrxrswf4x6w4iq/DonoghueEtal-CCN2019.pdf?dl=0), with an associated conference proceedings [paper](https://ccneuro.org/2019/proceedings/0000783.pdf).
+
 ## Electrophysiological Data Mapping & Data Integration
 
 ![MEG]({{ site.url }}/assets/pics/MEG_web.png)
@@ -74,11 +76,15 @@ If you are interested in these kinds of analysis, our Python module for performi
 
 ### Conference Proceedings
 
+- CCN 2019 - [A Simulation-Based Comparison of Methods for Analyzing Aperiodic Neural Activity](https://ccneuro.org/2019/proceedings/0000783.pdf) DOI: https://doi.org/10.32470/CCN.2019.1394-0
+- CCN 2019 - [Aperiodic EEG activity tracks 1/f stimulus characteristics and the allocation of cognitive resources](https://ccneuro.org/2019/proceedings/0000936.pdf) DOI: https://doi.org/10.32470/CCN.2019.1111-0
+- CCN 2019 - [The Structure of Cognition Across Computational Cognitive Neuroscience](https://ccneuro.org/2019/proceedings/0001130.pdf) DOI: https://doi.org/10.32470/CCN.2019.1426-0
 - CogSci 2018 - [Confidence Levels in Scientific Writing: Automated Mining of Primary Literature and Press Releases](http://mindmodeling.org/cogsci2018/papers/0323/index.html)
 - CogSci 2017 - [Automated Generation of Cognitive Ontology via Web Text-Mining](https://mindmodeling.org/cogsci2017/papers/0395/paper0395.pdf)
 
 ### Conference Posters
 
+- CCN 2019 - [A Simulation-Based Comparison of Methods for Analyzing Aperiodic Neural Activity](https://www.dropbox.com/s/9qrxrswf4x6w4iq/DonoghueEtal-CCN2019.pdf?dl=0)
 - CNS 2019 - [Electrophysiological Frequency Band Ratio Measures Conflate Periodic & Aperiodic Changes](https://www.dropbox.com/s/4lghj9218s4hgix/DomiguezEtal_BandRatiosPoster.pdf?dl=0)
 - SfN 2018 - [Parameterization of Periodic and Aperiodic Human Electrophysiology](https://www.dropbox.com/s/alwwb6ahb1wjank/MdandaEtal-SfN2018.pdf?dl=0)
 - Biomag 2018 - [Large-Scale Topographical Analysis of Electrophysiological 1/f and Oscillations Reveals Patterns of Spatial Variation](https://www.dropbox.com/s/k5koyibwuaclx5k/DonoghueEtal-Biomag2018.pdf?dl=0)
