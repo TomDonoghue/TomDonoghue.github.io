@@ -4,26 +4,24 @@ layout: default
 
 # Welcome!
 
-Hello! I am a PhD Student in the Cognitive Science department at UC San Diego, working in the [Voytek Lab](http://www.voyteklab.com), where we largely focus on understanding the role of neural oscillations in neural computation, cognition and disease. I also have interests in the broader areas of Cognitive Science. I also [teach](teaching.html) quite a lot, [blog](blog.html) sometimes, and like to [chat science](scicom.html). If you want the quickest summary of my professional life conveniently written down, you can check out my [CV]({{ site.url }}/assets/CV.pdf).
+Hello! I am a PhD Student in the Cognitive Science department at UC San Diego, working in the [Voytek Lab](http://www.voyteklab.com). My main [research](research.html) focus is on methods and applications of analyzing periodic and aperiodic electrophysiological neural activity and how it relates to neural computation, cognition and disease.
 
-## Research Overview
-
-Basically, I would like to know how the brain works. In particular, how does it go about organizing all it's seemingly chaotic activity in order to systematically allow us to do everything that we do?
-
-I mainly work on the hypothesis that neural oscillations - rhythmic neural activity - may serve as an organizing principle for neural computation. I investigate this using a mixture of running new experiments with human subjects while we record their brain activity, and also by analysing data from open-access databases. In practice, this means I spend most of my time on the computer, working on code to try and figure out what is going on in the data.
-
-You can find out more about my research [here.](research.html)
+In my work I spend a lot of my time developing [code](code.html). I also [teach](teaching.html) quite a lot and sometimes [blog](blog.html). If you want the quickest summary of my professional life conveniently written down, you can check out my [CV]({{ site.url }}/assets/CV.pdf), or skip right to my [publications](publications.html).
 
 ## General Philosophy
 
-I'm a big fan of interdisciplinary approaches, being trained in an interdisciplinary Cognitive Science approach, and am probably too scatter-brained to take any other approach. I think there is a lot of power in cutting across disciplines - especially by working on difficult problems with diverse, interdisciplinary teams.
+I've been trained in an inter-disciplinary Cognitive Science approach, and enjoy work that tries to cut across disciplines and tackle difficult problems with diverse, interdisciplinary teams. I also quite spend a lot of time thinking about science practice - about how we do and teach science. One part of this, for me, means doing science that is transparent and accessible, which in practice means working with and releasing open data, and working on developing openly accessible tools and resources for best practice. I also value work and approaches that recognize and prioritize diversity, inclusion and equality.
 
-I try to approach all my work focusing on values of transparency and accessibility. Towards these ends, I use open-data and open-source tools, and will, as much as possible, release all the data and code for all my projects, as well as provide broadly accessible write-ups about our research and what we learn.
+## Research Overview
 
-I think that science is better when it is open and accessible to all, which means valuing inclusion, diversity and equality. I don't always know how to help with that - what actions to take, when to take them and when to simply get out of the way - but I'm always trying to learn how to be better at this.
+Basically, I would like to know how the brain works. In particular, what fascinates me is the extreme flexibility we seem to have - despite a relatively fixed anatomy, we are able to quickly and flexibly react and respond to any number of things around us, or even within our head. How is it that the brain is able to organize all its seemingly chaotic activity in order to allow us to systematically respond to so many things around us, ultimately allowing for allowing us to do everything that we do?
+
+This area of research can broadly be thought of as investigating the functional organization of brain activity. To do so, I focus on investigating patterns of electrical brain activity that arise from large groups of neurons. In particular, I'm involved in work focused on measuring, analyzing and interpreting both periodic activity, or neural oscillations, and aperiodic activity, sometimes described as '1/f activity', that we see in electrical recordings of the brain. From these signals we try and infer properties of physiological activity and see if we can figure out how the brain might be organizing and processing information. This work includes methods development of software tools, analyzing data from open-access databases, and sometimes running novel experiments with human subjects while we record their brain activity.
+
+You can find out more about my research [here.](research.html)
 
 ## Contact
 
-If you'd like to get in touch, you can e-mail me at thomasdonoghue(at)hotmail.ca.
+If you'd like to get in touch, you can e-mail me at tdonoghue.research@gmail.com.
 
-You can also find me on [Twitter](https://twitter.com/Tomdonoghue), [Github](https://github.com/TomDonoghue), and/or [Instagram](https://www.instagram.com/t_donoghue/).
+You can also find me on [Twitter](https://twitter.com/TomDonoghue) or [Github](https://github.com/TomDonoghue).
