@@ -6,11 +6,13 @@ layout: default
 
 Hello! I am a PhD Student in the Cognitive Science department at UC San Diego, working in the [Voytek Lab](http://www.voyteklab.com). My main [research](research.html) focus is on methods and applications of analyzing periodic and aperiodic electrophysiological neural activity and how it relates to neural computation, cognition and disease.
 
-In my work I spend a lot of my time developing [code](code.html). I also [teach](teaching.html) quite a lot and sometimes [blog](blog.html). If you want the quickest summary of my professional life conveniently written down, you can check out my [CV]({{ site.url }}/assets/CV.pdf), or skip right to my [publications](publications.html).
+In my work I spend a lot of my time developing [code](code.html). I also [teach](teaching.html) quite a lot and sometimes [blog](blog.html). None of this is done alone, and one of the great joys of science is working with the many wonderful research assistants, collaborators, teaching assistants and code contributors whose work and contributions are reflected in everything I do.
+
+If you want the quickest summary of my professional life conveniently written down, you can check out my [CV]({{ site.url }}/assets/CV.pdf), or skip right to my [publications](publications.html).
 
 ## General Philosophy
 
-I've been trained in an inter-disciplinary Cognitive Science approach, and enjoy work that tries to cut across disciplines and tackle difficult problems with diverse, interdisciplinary teams. I also quite spend a lot of time thinking about science practice - about how we do and teach science. One part of this, for me, means doing science that is transparent and accessible, which in practice means working with and releasing open data, and working on developing openly accessible tools and resources for best practice. I also value work and approaches that recognize and prioritize diversity, inclusion and equality.
+I've been trained in an inter-disciplinary Cognitive Science approach, and enjoy work that tries to cut across disciplines and tackle difficult problems with diverse, interdisciplinary teams. I also quite spend a lot of time thinking about science practice - about how we do and teach science. One part of this, for me, means doing science that is transparent and accessible, which in practice means working with and releasing open data, and working on developing openly accessible tools and resources for best practice. I also believe in equity, diversity and inclusion, and strive to work and practice science in a way that is open and equitable for all.
 
 ## Research Overview
 
@@ -22,6 +24,6 @@ You can find out more about my research [here.](research.html)
 
 ## Contact
 
-If you'd like to get in touch, you can e-mail me at tdonoghue.research@gmail.com.
+If you'd like to get in touch, you can e-mail me at `tdonoghue.research@gmail.com`.
 
-You can also find me on [Twitter](https://twitter.com/TomDonoghue) or [Github](https://github.com/TomDonoghue).
+You can also find me on [Github](https://github.com/TomDonoghue) or [Twitter](https://twitter.com/TomDonoghue).

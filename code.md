@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Open-Source all the Things!
+# Code & Resources
 
-My work involves writing and using software. I work in Python, and work on open-source packages, and also work to make all my project code openly available as well.
+My work involves writing and using a lot of software, as well as open datasets, and my philosophy is basically 'Open-Source all the Things!'.
 
-All code is hosted on Github, often on my [personal page](https://github.com/TomDonoghue), or the [Voytek Lab page](https://github.com/voytekresearch).
+In terms of code, I work in Python. I work on developing open-source packages, and also work to make all my project code openly available as well. In terms of data, I mostly use openly-available datasets, and, when I collect data, also seek to make these datasets openly available.
 
-Below are tools and packages I work on. Project specific code will be on the [research page](research.html), and teaching code on the [teaching page](teaching.html). All available code is also indexed [here](https://github.com/TomDonoghue/Roadmap).
+All code is hosted on Github, often on my [personal page](https://github.com/TomDonoghue), or the [Voytek Lab page](https://github.com/voytekresearch). Below are tools and packages I work on. Project specific code will be on the [research page](research.html), and teaching code on the [teaching page](teaching.html). All available code is also indexed [here](https://github.com/TomDonoghue/Roadmap).
 
 ## Open-Source Packages
 
@@ -32,13 +32,25 @@ I am the lead developer of [LISC](https://github.com/lisc-tools/lisc), a tool fo
 
 LISC is a tool that connect to available APIs, such as for the Pubmed database, and offers functionality to collect scientific literature articles from them, with tools to analyze the collected results.
 
+## Open Lists
+
+I also work with a lot of open resources, and keep lists of what is available [here](https://github.com/OpenLists).
+
+### Open Data
+
+A list of openly available [neuro-electrophysiological datasets](https://github.com/openlists/OpenData).
+
+### Open Tools
+
+A list of openly available [software packages](https://github.com/openlists/OpenTools) for working with neuro-electrophysiological data.
+
 ## Templates
 
-I use templates that I have developed for my research projects, that are also openly available.
+I use and develop templates for my research projects, that are collected and available [here](https://github.com/structuredscience/).
 
 ### Project Templates
 
-I use a general template for all my projects and supervised projects, available [here](https://github.com/structuredscience/ProjectTemplate).
+I use a [general template](https://github.com/structuredscience/ProjectTemplate) for all my projects and supervised projects.
 
 ### EEG Templates
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Publications
+# Publications & Conference Materials
 
 ## Journal Articles
 
@@ -52,13 +52,13 @@ layout: default
 
 ## Conference Posters
 
-*Selected posters for which I was presenting author, or the direct supervisor*
+*Selected posters for which I was presenting author or the direct supervisor*
 
 2019
 - [Comparing the Effects of Pre-Stimulus Activity on Event-Related Potentials](https://www.dropbox.com/s/e4k5hxevv1gsmql/Zhang-SfN-Poster.pdf?dl=0)
-    - Presented by Tyler Farnan
-- [Evaluating Methods for Time-Resolved Measurement of Aperiodic Activity](https://www.dropbox.com/s/znwhq3rd6uvfn1q/SfN2019-Farnan-AperiodicInTime.pdf?dl=0)
     - Presented by Fenglin Zhang
+- [Evaluating Methods for Time-Resolved Measurement of Aperiodic Activity](https://www.dropbox.com/s/znwhq3rd6uvfn1q/SfN2019-Farnan-AperiodicInTime.pdf?dl=0)
+    - Presented by Tyler Farnan
 - [A Simulation-Based Comparison of Methods for Analyzing Aperiodic Neural Activity](https://www.dropbox.com/s/9qrxrswf4x6w4iq/DonoghueEtal-CCN2019.pdf?dl=0)
 - [ Frequency Band Ratio Measures Conflate Periodic & Aperiodic Changes](https://www.dropbox.com/s/4lghj9218s4hgix/DomiguezEtal_BandRatiosPoster.pdf?dl=0)
     - Presented by Julio Dominguez
