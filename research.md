@@ -22,7 +22,7 @@ All of the projects outlined here are done at the [Voytek Lab](http://voyteklab.
 
 Quick Version: Methods for measuring periodic and aperiodic neural activity.
 
-Neuroelectrophysiological data contains periodic or rhythmic components, often referred to as 'neural oscillations', as well as an aperiodic or '1/f-like' component. Each of these components likely has at least somewhat different physiological generators, and we argue they should each to measured explicitly to ensure that analyses and interpretations appropriately describe which features of the data are changing. Measuring these components specifically requires tools and approaches that explicitly deal with both components.
+Neuro-electrophysiological data contains periodic or rhythmic components, often referred to as 'neural oscillations', as well as an aperiodic or '1/f-like' component. Each of these components likely has at least somewhat different physiological generators, and we argue they should each to measured explicitly to ensure that analyses and interpretations appropriately describe which features of the data are changing. Measuring these components specifically requires tools and approaches that explicitly deal with both components.
 
 We have developed a method for measuring periodic and aperiodic activity from neural data, that operates on neural power spectra (frequency representations). This approach seeks to parameterize and measure each component explicitly and separately, so that analyses can investigate which components of neural data are changing. The code for this method is available [here](https://github.com/fooof-tools/fooof), and a full description is currently available as a [preprint](https://www.biorxiv.org/content/early/2018/04/11/299859).
 
@@ -34,7 +34,7 @@ As part of this work, we have been evaluating and exploring related methods to a
 
 ![MEG]({{ site.url }}/assets/pics/MEG_web.png)
 
-Quick Version: The 'what, when, and where' of neuroelectrophysiological data.
+Quick Version: The 'what, when, and where' of neuro-electrophysiological data.
 
 At its core, this project simply aims to provide some extra details on the 'where, when and what' of periodic and aperiodic  neural activity. There is a rich history of exploring and mapping periodic activity in particular, often referred to as neural oscillations. However, the majority of this work has not systematically separated periodic components from aperiodic neural activity, and typically uses pre-defined frequency ranges.
 

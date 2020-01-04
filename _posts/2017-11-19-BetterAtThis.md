@@ -10,7 +10,7 @@ comments: true
 
 - In my first quarter in graduate school, amidst a heavy class load and the first steps as a graduate student researcher, an unfortunate schedule meant I had my three class presentations in one day. I had a hell of a week trying to get everything ready, cycling through some rather ridiculous ideas in the process. That’s okay, I thought, I’ll get better at this.
 
-- Ahead of presenting at my first scientific conference, I had a lot to do to get my project ready, more tasks than time, with a lot of new things to learn to get a poster made. After an all nighter at the lab, I went home as the sun came up to shower, pack, and head straight to the airport. That’s okay, I thought, I’ll get better at this.
+- Ahead of presenting at my first scientific conference, I had a lot to do to get my project ready, more tasks than time, with a lot of new things to learn to get a poster made. After an all-nighter at the lab, I went home as the sun came up to shower, pack, and head straight to the airport. That’s okay, I thought, I’ll get better at this.
 
 - In the two years since, I've presented various projects at four more conferences around the world, each with some new element to the what, where and how of the project/conference. Each one has involved an all-nighter at some point late in the game, scrambling to pull things together. I did this most recently only a couple weeks ago. That’s okay, I’ll… well, actually…
 
