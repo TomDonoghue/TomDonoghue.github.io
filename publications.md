@@ -16,8 +16,16 @@ layout: default
 
 *Pre-prints for articles currently under review*
 
+2020
+- [Electrophysiological Band-Ratio Measures Conflate Changes in Periodic and Aperiodic Activity.](https://doi.org/10.1101/2020.01.11.900977)
+    - **Donoghue T**, Dominguez J, Voytek B
+
+2019
+- [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain.](https://doi.org/10.1101/839258)
+    - He W, **Donoghue T**, Sowman PF, Seymour RA, Brock J, Crain S, Voytek B, Hillebrand A.
+
 2018
-- [Parameterizing Neural Power Spectra](https://www.biorxiv.org/content/early/2018/04/11/299859)
+- [Parameterizing Neural Power Spectra](https://doi.org/10.1101/299859)
     - Haller M\*, **Donoghue T**\*, Peterson E\*, Varma P, Sebastian P, Gao R, Noto T, Knight RT, Shestyuk A, Voytek B
 
 ## Software Papers
