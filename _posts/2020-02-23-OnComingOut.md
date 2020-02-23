@@ -1,6 +1,6 @@
 ---
 title: On Coming Out
-date: 2020-02-22
+date: 2020-02-23
 categories: ms
 layout: post
 comments: true
@@ -8,7 +8,7 @@ comments: true
 
 One day, this blog will get back to science and research and teaching. Not this day.
 
-Here I talk a bit more about my story of coming out as queer. Needless to say, it is a personal, and somewhat self-indulgent, piece, told from my perspective.
+This post talks about my story of coming out as queer. Needless to say, it is a personal, and somewhat self-indulgent, piece, told from my perspective.
 
 <center> . . . . . </center>
 
@@ -16,7 +16,7 @@ My Grandmother lives on the edge of Scotland, in a remote village so small the h
 
 My Grandfather has lived in the same house for over 50 years, nestled in a suburb in the north of England. He is a little better at the whole online messaging thing. He sent me an e-mail, saying he'd read the things I'd posted and that of course it makes no difference to them.
 
-The next line mentions that he read my recent paper. It's really interesting, he says, even though he hadn't totally understood it all. At first, I found this a bit of a jarring transition. I have come to see it as a rather wonderful version of "everything is fine, nothing is going to change with us".
+Then the next line mentions that he read my recent paper. It's really interesting, he says, even though he hadn't totally understood it all. At first, I found this a bit of a jarring transition. I have come to see it as a rather wonderful version of "everything is fine, nothing is going to change with us".
 
 <center> . . . . . </center>
 
@@ -40,7 +40,7 @@ I know at least some people may be confused or even somewhat annoyed that I didn
 
 <center> . . . . . </center>
 
-The first person I ever told that I was queer, and struggling, was someone I thought was a good friend. Someone who I really hoped would be fine with it all and stick around.
+The first person I ever told that I was queer, and that I was struggling, was someone I thought was a good friend. Someone who I really hoped would be fine with it all and stick around.
 
 The first conversation seemed to go fairly well. It felt, for a moment, like a breakthrough.
 
@@ -54,11 +54,11 @@ Some time later, trying to follow up, I got the answer that actually we just sho
 
 I'm lucky that blatant homophobia - the sign-carrying spittle-infused bluster of wordsmiths who think rhyming Steve with Eve forms the basis of a compelling argument - is not something I've had to fear from those around me.
 
-I know that some appeal to the academic demonstrations of rampant homosexual activity across the kingdom Animalia, or the consistent presence of homosexual tendencies across the extant histories of homo sapiens, as scholastic demonstrations of the validity and normativity of same-sex relations and thus a justification for accepting it as acceptable behaviour for consenting individuals.
+I know that some appeal to the academic demonstrations of rampant homosexual activity across the kingdom Animalia, or the consistent presence of homosexual tendencies across the extant histories of homo sapiens, as scholastic demonstrations of the validity and normativity of same-sex relations and thus a justification for considering it acceptable behaviour among consenting individuals.
 
 I rather think that's more than we need. Overdoing it a bit, really. I think it might be simpler than that. Homophobia is just ridiculous. It's dumb and it's wrong and it's bad. That's all we really need to say about it.
 
-That doesn't mean that blatant homophobia is not real, or dangerous. Or that I completely avoided internalizing any of the homophobia of a culture still way too full it. I'm still working on making 'pride' a thing I can feel, and not just an event I can go to.
+That doesn't mean that blatant homophobia is not real, or dangerous. Or that I completely avoided internalizing any of the homophobia of a culture still way too full it. I'm still working on making 'pride' a thing I feel, and not just an event I can go to.
 
 But I'm lucky that outright homophobia is not something that has weighed too much on my mind as an 'argument'. I know it's invalid. It's also impersonal. If someone chooses bigotry, that's not really about me so much as about the abstract concept of non-heterosexuality. Of all the possible concepts to get mad at, imagine choosing that one.
 
@@ -70,7 +70,7 @@ Someone who knew me - who would say that of course that concept of queerness was
 
 It wasn't abstract. It was very much about me.
 
-For all the complexities that human interaction brings with it - and I am by no means saying I never messed anything up along the way - at a choice point of whether to try and talk though things or cast them away, it hurt to not be worth communicating with.
+For all the complexities that human interaction brings with it - and I am by no means saying I never messed anything up along the way - at a choice point of whether to try to figure things out or step away, it hurt to seem to not be worth communicating with.
 
 <center> . . . . . </center>
 
@@ -80,7 +80,7 @@ You know what I mean - like the part of Instagram that's filled with all sorts o
 
 I spend enough of my time wrestling with the hyper-logicalness of computer code to know that I do not crave the 'simple' rationality of logical dictums. That. can. actually. be. really. quite. infuriating. {SyntaxError: Invalid sentence structure.}.
 
-But I would also be lying if I said anything other than that for every text infused motivational image on the internet I haven't had the thought of trying to logic myself into 'not spending time thinking about people who don't think about you', or about 'not letting a lone voice become the choir in your head', or whatever the quote of the day is.
+But I would also be lying if I said anything other than that for every text infused motivational image on the internet I haven't had the thought of trying to logic myself into 'not spending time thinking about people who won't spend time thinking about you', or about 'not letting a lone voice become the choir in your head', or whatever the quote of the day is.
 
 Logic be damned.
 
@@ -88,11 +88,11 @@ Logic be damned.
 
 Around the time I first told someone I was queer, I was in a bit of a messy patch. I had basically figured out my sexuality, but didn't really know what to do about it. I was burning out at work. Because academia, I lived far away from many of the people that I knew best.
 
-All sorts of things that had been building up for a while all kind of merged together, and it wasn't a great time. I was treading in some rough waters.
+All sorts of things that had been building up for a while all kind of merged together, and it wasn't a great time.
 
 But, in theory, things were going well for me. I wasn't sure if I was ready for it all to change.
 
-When things already feel a bit broken, and one feels a bit lonely, the energy needed to reach out is a lot. Lingering thoughts that maybe this would break things, and I'd lose what I had, and people wouldn't get it, and maybe some would just walk away, can all become potent excuses.
+When things already feel a bit broken and a bit lonely, the energy needed to reach out is a lot. Lingering thoughts that maybe this would break things - that I'd lose what I had; that maybe people wouldn't get it or would just walk away - all became potent excuses.
 
 I was aware, logically, that these weren't particularly good or useful thoughts. Brains are weird. Someone should probably try and figure out how they work.
 
@@ -132,7 +132,7 @@ When I think about or see people that I haven't talked to directly since I came 
 
 But this is no longer a devastating thought. If that's your choice - so be it.
 
-Since posting, I've had many great conversations with people who were already in my life, and also with new people just entering it. Sometimes, it didn't even take any words, but a look and a hug that conveyed everything needed. I'll be alright.
+Since posting, I've had many great conversations with people who were already in my life, and also with new people just entering it. Sometimes, it didn't even take any words - a look and a hug conveyed everything needed. I'll be alright.
 
 <center> . . . . . </center>
 
@@ -140,7 +140,7 @@ One thing I have thought about quite a lot recently is about when kindness and s
 
 If nothing else, maybe I can get my own nerdy version of a quote printed on a stock photo in some corner of the internet.
 
-I'm not saying this is something I have it all figured out, or that it's something that I do and have always enacted. It's aspirational. But I try to think more about what it means to make support applied - to listen, to try to understand, to give space when it's needed - and also to show up.
+I'm not saying this is something I have it all figured out, or that it's something that I have always enacted. It's aspirational. But I try to think more about what it means to make support applied - to listen, to try to understand, to give space when it's needed - and also to show up.
 
 <center> . . . . . </center>
 
@@ -159,7 +159,9 @@ Probably I should have done the more normal thing and started a journal, rather 
 As you do in PhD world, I have somewhat stock answers for the typical questions of 'what are you up to?',
 'what's next?', 'where are you going to go?', etc.
 
-There was a point when the words that would fall out of my mouth to form these answers started to feel like ghosts of a possible life fluttering away. They captured plans that began to feel out of reach. Things that I didn't feel like I had the energy to pursue. Pursuits that I was losing track of if I even wanted them.
+There was a point when the words that would fall out of my mouth to form these answers started to feel like ghosts of a possible life fluttering away.
+
+They captured plans that began to feel out of reach. Things that I didn't feel like I had the energy to pursue. Pursuits that I was losing track of if I even wanted them.
 
 I no longer feel like that.
 
@@ -167,8 +169,8 @@ I'm getting back to the usual excessive list of goals and ideas. It's a much bet
 
 <center> . . . . . </center>
 
-So, there it is.
+So, there it is, my story, or some parts of it, stitched together, at least.
 
-For anyone who wanted to know a bit more about more my story, I hope it helped to understand me a little more.
+This turned out to be quite a long piece, so if anyone made it to the end, thanks for reading.
 
 And finally, thank you to all of the wonderful people in my life.
