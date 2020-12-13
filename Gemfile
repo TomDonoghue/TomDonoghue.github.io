@@ -1,8 +1,8 @@
 source 'http://rubygems.org'
 
 gem 'jekyll'
-
 gem 'jekyll-paginate'
+gem 'kramdown-parser-gfm'
 
 # Jekyll themes
 gem "jekyll-theme-cayman"
