@@ -4,43 +4,42 @@ layout: default
 
 # Publications & Conference Materials
 
+On this page you can find a list and links of my published materials.
+
+* Table of Contents
+{:toc}
+
 ## Journal Articles
 
 *Peer reviewed journal articles*
 
-2019
-- [EEG Power Spectral Slope differs by ADHD status and stimulant medication exposure in early childhood](https://doi.org/10.1152/jn.00388.2019)
-    - Robertson M, Furlong S, Voytek B, **Donoghue T**, Boettiger CA, & Sheridan MA
-
-## Pre-Prints
-
-*Pre-prints for articles currently under review*
-
 2020
+- Teaching creative and practical data science at scale (accepted - link coming soon)
+    - **Donoghue T**, Ellis S, Voytek B
+- [Parameterizing neural power spectra into periodic and aperiodic components](https://doi.org/10.1038/s41593-020-00744-x)
+    - **Donoghue T**, Haller M, Peterson EJ, Varma P, Sebastian P, Gao R, Noto T, Lara AH, Wallis JD, Knight RT, Shestyuk A, Voytek B
 - [Electrophysiological Band-Ratio Measures Conflate Changes in Periodic and Aperiodic Activity.](https://doi.org/10.1101/2020.01.11.900977)
     - **Donoghue T**, Dominguez J, Voytek B
 
 2019
-- [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain.](https://doi.org/10.1101/839258)
-    - He W, **Donoghue T**, Sowman PF, Seymour RA, Brock J, Crain S, Voytek B, Hillebrand A.
-
-2018
-- [Parameterizing Neural Power Spectra](https://doi.org/10.1101/299859)
-    - Haller M\*, **Donoghue T**\*, Peterson E\*, Varma P, Sebastian P, Gao R, Noto T, Knight RT, Shestyuk A, Voytek B
-
-## Software Papers
-
-*Short, citable, papers describing software packages*
-
-2019
+- [EEG Power Spectral Slope differs by ADHD status and stimulant medication exposure in early childhood](https://doi.org/10.1152/jn.00388.2019)
+    - Robertson M, Furlong S, Voytek B, **Donoghue T**, Boettiger CA, & Sheridan MA
 - [LISC: A Python Package for Scientific Literature Collection and Analysis](https://joss.theoj.org/papers/10.21105/joss.01674)
     - **Donoghue T**
 - [NeuroDSP: A package for neural digital signal processing](https://joss.theoj.org/papers/10.21105/joss.01272)
     - Cole S, **Donoghue T**, Gao R, Voytek B
 
-## Conference Proceedings
+## Preprints
 
-*Peer reviewed conference proceedings (short papers)*
+*Pre-prints for articles currently under review*
+
+2019
+- [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
+    - He W, **Donoghue T**, Sowman PF, Seymour RA, Brock J, Crain S, Voytek B, Hillebrand A.
+
+## Conference Papers
+
+*Peer reviewed, short papers, published in conference proceedings*
 
 2019
 - [A Simulation-Based Comparison of Methods for Analyzing Aperiodic Neural Activity](https://ccneuro.org/2019/proceedings/0000783.pdf)
@@ -61,6 +60,9 @@ layout: default
 ## Conference Posters
 
 *Selected posters for which I was presenting author or the direct supervisor*
+
+2020
+- [Considerations for Detecting & Measuring Neural Oscillations](https://www.dropbox.com/s/jz9fpdk4v8am18h/Donoghue%26Voytek-ConsiderationsMeasuringNeuralOscillations.pdf?dl=0)
 
 2019
 - [Comparing the Effects of Pre-Stimulus Activity on Event-Related Potentials](https://www.dropbox.com/s/e4k5hxevv1gsmql/Zhang-SfN-Poster.pdf?dl=0)
