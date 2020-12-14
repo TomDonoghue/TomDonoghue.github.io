@@ -1,3 +1,8 @@
-## Welcome to Tom's website source. 
+# Website source.
 
-You can check out the actual site here: https://tomdonoghue.github.io
+This is the source page of my website, https://tomdonoghue.github.io
+
+This website is hosted using
+[Github pages](https://pages.github.com/), and is created using
+[Jekyll](https://jekyllrb.com/), which allows for writing content in markdown,
+which then gets converted into HTML for hosting.
