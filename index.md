@@ -8,7 +8,7 @@ Hello, I'm Tom! I'm a scientist, and I work on research in the area of computati
 
 I work on [research](research.html) focused on methods and applications of analyzing periodic and aperiodic electrophysiological neural activity and how it relates to neural computation, cognition, and disease.
 
-For a summary of my professional life conveniently written down, you can check out my [CV]({{ site.url }}/assets/CV.pdf), and/or you can jump straight to a list of my [publications](publications.html).
+For a summary of my professional life conveniently written down, you can check out my [CV]({{ site.url }}/assets/DonoghueT-CV.pdf), and/or you can jump straight to a list of my [publications](publications.html).
 
 On this site you can find out a bit about me and my work, including:
 
