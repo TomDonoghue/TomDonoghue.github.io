@@ -70,7 +70,7 @@ On this page you can find a list and links of my published materials.
 - [Evaluating Methods for Time-Resolved Measurement of Aperiodic Activity](https://www.dropbox.com/s/znwhq3rd6uvfn1q/SfN2019-Farnan-AperiodicInTime.pdf?dl=0)
     - Presented by Tyler Farnan
 - [A Simulation-Based Comparison of Methods for Analyzing Aperiodic Neural Activity](https://www.dropbox.com/s/9qrxrswf4x6w4iq/DonoghueEtal-CCN2019.pdf?dl=0)
-- [ Frequency Band Ratio Measures Conflate Periodic & Aperiodic Changes](https://www.dropbox.com/s/4lghj9218s4hgix/DomiguezEtal_BandRatiosPoster.pdf?dl=0)
+- [Frequency Band Ratio Measures Conflate Periodic & Aperiodic Changes](https://www.dropbox.com/s/4lghj9218s4hgix/DomiguezEtal_BandRatiosPoster.pdf?dl=0)
     - Presented by Julio Dominguez
 
 2018
