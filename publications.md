@@ -15,7 +15,7 @@ On this page you can find a list and links of my published materials.
 
 2020
 - [Teaching creative and practical data science at scale](https://doi.org/10.1080/10691898.2020.1860725)
-    - **Donoghue T**, Ellis S, Voytek B
+    - **Donoghue T**, Voytek B, Ellis S
 - [Parameterizing neural power spectra into periodic and aperiodic components](https://doi.org/10.1038/s41593-020-00744-x)
     - **Donoghue T**, Haller M, Peterson EJ, Varma P, Sebastian P, Gao R, Noto T, Lara AH, Wallis JD, Knight RT, Shestyuk A, Voytek B
 - [Electrophysiological Band-Ratio Measures Conflate Changes in Periodic and Aperiodic Activity.](https://doi.org/10.1101/2020.01.11.900977)
