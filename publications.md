@@ -4,7 +4,7 @@ layout: default
 
 # Publications & Conference Materials
 
-On this page you can find a list and links of my published materials.
+On this page you can find a list of and links to my published materials.
 
 * Table of Contents
 {:toc}
@@ -32,6 +32,10 @@ On this page you can find a list and links of my published materials.
 ## Preprints
 
 *Pre-prints for articles currently under review*
+
+2021
+- [Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent](https://doi.org/10.1101/2021.01.13.426522)
+    - Waschke L, **Donoghue T**, Fiedler L, Smith S, Garrett DD, Voytek B, Obleser J
 
 2019
 - [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
