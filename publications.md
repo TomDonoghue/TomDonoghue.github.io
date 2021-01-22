@@ -4,30 +4,13 @@ layout: default
 
 # Publications & Conference Materials
 
-On this page you can find a list of and links to my published materials.
+On this page you can find a list of my published and conference materials.
+
+You can also find this information on my
+[Google scholar profile](https://scholar.google.com/citations?user=pxZ6AdsAAAAJ&hl=en).
 
 * Table of Contents
 {:toc}
-
-## Journal Articles
-
-*Peer reviewed journal articles*
-
-2020
-- [Teaching creative and practical data science at scale](https://doi.org/10.1080/10691898.2020.1860725)
-    - **Donoghue T**, Voytek B, Ellis S
-- [Parameterizing neural power spectra into periodic and aperiodic components](https://doi.org/10.1038/s41593-020-00744-x)
-    - **Donoghue T**, Haller M, Peterson EJ, Varma P, Sebastian P, Gao R, Noto T, Lara AH, Wallis JD, Knight RT, Shestyuk A, Voytek B
-- [Electrophysiological Band-Ratio Measures Conflate Changes in Periodic and Aperiodic Activity.](https://doi.org/10.1101/2020.01.11.900977)
-    - **Donoghue T**, Dominguez J, Voytek B
-
-2019
-- [EEG Power Spectral Slope differs by ADHD status and stimulant medication exposure in early childhood](https://doi.org/10.1152/jn.00388.2019)
-    - Robertson M, Furlong S, Voytek B, **Donoghue T**, Boettiger CA, & Sheridan MA
-- [LISC: A Python Package for Scientific Literature Collection and Analysis](https://joss.theoj.org/papers/10.21105/joss.01674)
-    - **Donoghue T**
-- [NeuroDSP: A package for neural digital signal processing](https://joss.theoj.org/papers/10.21105/joss.01272)
-    - Cole S, **Donoghue T**, Gao R, Voytek B
 
 ## Preprints
 
@@ -40,6 +23,26 @@ On this page you can find a list of and links to my published materials.
 2019
 - [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
     - He W, **Donoghue T**, Sowman PF, Seymour RA, Brock J, Crain S, Voytek B, Hillebrand A.
+
+## Journal Articles
+
+*Peer reviewed journal articles*
+
+2020
+- [Teaching creative and practical data science at scale](https://doi.org/10.1080/10691898.2020.1860725)
+    - **Donoghue T**, Voytek B, Ellis S
+- [Parameterizing neural power spectra into periodic and aperiodic components](https://doi.org/10.1038/s41593-020-00744-x)
+    - **Donoghue T**, Haller M, Peterson EJ, Varma P, Sebastian P, Gao R, Noto T, Lara AH, Wallis JD, Knight RT, Shestyuk A, Voytek B
+- [Electrophysiological Band-Ratio Measures Conflate Changes in Periodic and Aperiodic Activity](https://doi.org/10.1101/2020.01.11.900977)
+    - **Donoghue T**, Dominguez J, Voytek B
+
+2019
+- [EEG Power Spectral Slope differs by ADHD status and stimulant medication exposure in early childhood](https://doi.org/10.1152/jn.00388.2019)
+    - Robertson M, Furlong S, Voytek B, **Donoghue T**, Boettiger CA, & Sheridan MA
+- [LISC: A Python Package for Scientific Literature Collection and Analysis](https://joss.theoj.org/papers/10.21105/joss.01674)
+    - **Donoghue T**
+- [NeuroDSP: A package for neural digital signal processing](https://joss.theoj.org/papers/10.21105/joss.01272)
+    - Cole S, **Donoghue T**, Gao R, Voytek B
 
 ## Conference Papers
 
