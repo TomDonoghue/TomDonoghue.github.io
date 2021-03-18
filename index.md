@@ -4,7 +4,7 @@ layout: default
 
 # Welcome!
 
-Hello, I'm Tom! I'm a scientist, and I work on research in the area of computational and cognitive neuroscience. I am currently a postdoctoral researcher in the [Voytek Lab](https://voyteklab.com/), where I also did my PhD. I will soon be starting as a postdoc in the laboratory of [Dr. Joshua Jacobs](http://orion.bme.columbia.edu/jacobs/) at Columbia University.
+Hello, I'm Tom! I'm a scientist, and I work on research in the area of computational and cognitive neuroscience. I am currently a postdoctoral research scientist in the laboratory of [Dr. Joshua Jacobs](http://orion.bme.columbia.edu/jacobs/) at Columbia University. Before that, I was in the [Voytek Lab](https://voyteklab.com/), at the University of California, where I did my PhD.
 
 I work on [research](research.html) focused on methods and applications of analyzing periodic and aperiodic electrophysiological neural activity and how it relates to neural computation, cognition, and disease.
 
