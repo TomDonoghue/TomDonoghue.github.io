@@ -17,6 +17,8 @@ You can also find this information on my
 *Pre-prints for articles currently under review*
 
 2021
+- [Methodological Considerations for Studying Neural Oscillations](https://doi.org/10.31234/osf.io/hvd67)
+    - **Donoghue T**, Schaworonkow N, Voytek B
 - [Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent](https://doi.org/10.1101/2021.01.13.426522)
     - Waschke L, **Donoghue T**, Fiedler L, Smith S, Garrett DD, Voytek B, Obleser J
 
