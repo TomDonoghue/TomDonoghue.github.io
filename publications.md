@@ -17,8 +17,6 @@ You can also find this information on my
 *Preprints for articles currently under review*
 - [Spectral parameterization for studying neurodevelopment: how and why](https://doi.org/10.31234/osf.io/btqyk)
     - Ostlund BD, **Donoghue T**, Anaya B, Gunther KE, Karalunas SL, Voytek B, Pérez-Edgar KE
-- [Methodological Considerations for Studying Neural Oscillations](https://doi.org/10.31234/osf.io/hvd67)
-    - **Donoghue T**, Schaworonkow N, Voytek B
 - [Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent](https://doi.org/10.1101/2021.01.13.426522)
     - Waschke L, **Donoghue T**, Fiedler L, Smith S, Garrett DD, Voytek B, Obleser J
 - [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
@@ -28,9 +26,13 @@ You can also find this information on my
 
 *Peer reviewed journal articles*
 
-2020
+2021
+- [Methodological Considerations for Studying Neural Oscillations]( https://doi.org/10.1111/ejn.15361)
+    - **Donoghue T**, Schaworonkow N, Voytek B
 - [Teaching creative and practical data science at scale](https://doi.org/10.1080/10691898.2020.1860725)
     - **Donoghue T**, Voytek B, Ellis S
+
+2020
 - [Parameterizing neural power spectra into periodic and aperiodic components](https://doi.org/10.1038/s41593-020-00744-x)
     - **Donoghue T**, Haller M, Peterson EJ, Varma P, Sebastian P, Gao R, Noto T, Lara AH, Wallis JD, Knight RT, Shestyuk A, Voytek B
 - [Electrophysiological Band-Ratio Measures Conflate Changes in Periodic and Aperiodic Activity](https://doi.org/10.1101/2020.01.11.900977)
