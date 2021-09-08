@@ -15,6 +15,9 @@ You can also find this information on my
 ## Preprints
 
 *Preprints for articles currently under review*
+
+- [Automated meta-analysis of the event-related potential (ERP) literature](https://doi.org/10.31234/osf.io/7ezmh)
+    - **Donoghue T**, Voytek B
 - [Spectral parameterization for studying neurodevelopment: how and why](https://doi.org/10.31234/osf.io/btqyk)
     - Ostlund BD, **Donoghue T**, Anaya B, Gunther KE, Karalunas SL, Voytek B, Pérez-Edgar KE
 - [Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent](https://doi.org/10.1101/2021.01.13.426522)
