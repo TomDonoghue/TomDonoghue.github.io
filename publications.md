@@ -20,8 +20,6 @@ You can also find this information on my
     - **Donoghue T**, Voytek B
 - [Spectral parameterization for studying neurodevelopment: how and why](https://doi.org/10.31234/osf.io/btqyk)
     - Ostlund BD, **Donoghue T**, Anaya B, Gunther KE, Karalunas SL, Voytek B, Pérez-Edgar KE
-- [Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent](https://doi.org/10.1101/2021.01.13.426522)
-    - Waschke L, **Donoghue T**, Fiedler L, Smith S, Garrett DD, Voytek B, Obleser J
 - [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
     - He W, **Donoghue T**, Sowman PF, Seymour RA, Brock J, Crain S, Voytek B, Hillebrand A.
 
@@ -30,6 +28,8 @@ You can also find this information on my
 *Peer reviewed journal articles*
 
 2021
+- [Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent](https://doi.org/10.7554/eLife.70068)
+    - Waschke L, **Donoghue T**, Fiedler L, Smith S, Garrett DD, Voytek B, Obleser J
 - [Methodological Considerations for Studying Neural Oscillations]( https://doi.org/10.1111/ejn.15361)
     - **Donoghue T**, Schaworonkow N, Voytek B
 - [Teaching creative and practical data science at scale](https://doi.org/10.1080/10691898.2020.1860725)
