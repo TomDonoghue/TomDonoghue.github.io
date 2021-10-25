@@ -7,20 +7,23 @@ layout: default
 Hello, I'm Tom! I'm a scientist, and I work on research in the area of computational and cognitive neuroscience.
 I am currently a postdoctoral research scientist in the laboratory of
 [Dr. Joshua Jacobs](http://orion.bme.columbia.edu/jacobs/) at Columbia University.
-Before that, I did my PhD in at
-[Voytek Lab](https://voyteklab.com/), at the University of California, San Diego.
+Before that, I did my PhD with
+[Dr. Bradley Voytek](https://voyteklab.com/), at the University of California, San Diego.
 
-I work on [research](research.html) focused on methods and applications of analyzing periodic and aperiodic
+My research is focused on methods and applications of analyzing periodic and aperiodic
 electrophysiological neural activity and how it relates to neural computation, cognition, and disease.
+For a high-level overview, my research work has been covered in
+[Quanta Magazine](https://www.quantamagazine.org/brains-background-noise-may-hold-clues-to-persistent-mysteries-20210208/)
+(reprinted by [Wired](https://www.wired.com/story/the-brains-background-noise-may-be-meaningful-after-all/)),
+and is also described on the [research](research.html) page.
 
-For a summary of my professional life conveniently written down, you can check out my
-[CV]({{ site.url }}/assets/DonoghueT-CV.pdf),
-and/or you can jump straight to a list of my
-[publications](publications.html).
+For the full scientific version, you can check out my list of
+[publications](publications.html), and/or my
+[CV]({{ site.url }}/assets/DonoghueT-CV.pdf).
 
 On this site you can find out a bit about me and my work, including:
 
-- 1) [Research](research.html): general descriptions of research that I work on
+- 1) [Research](research.html): a narrative description of my research work
 - 2) [Code & Resources](code.html): links and descriptions of software and resources that I work on
 - 3) [Teaching](teaching.html): links and descriptions of my teaching activities
 - 4) [Blog](blog.html): miscellaneous writing, including a mixture of research and personal topics
@@ -35,9 +38,9 @@ After some experience working in research labs, I decided to apply to grad schoo
 
 In graduate school, I started to focus more and more on methods development and computational analyses, as
 as started to focus on questions about how best to measure and interpret features of interest in neural data.
-Luckily, my grad school experience allowed me the flexibility to dive into scientific computing and open-source tool development,
-which have become key parts of my [work](code.html). This led me to a [research](research.html) focus on
-trying to understand electrical signals in the brain - investigating how we can measure them, and what
+Luckily, my grad school experience allowed me the flexibility to dive into scientific computing and open-source
+tool development, which have become key parts of my [work](code.html). This led me to a [research](research.html)
+focus on trying to understand electrical signals in the brain - investigating how we can measure them, and what
 they might mean in relation to cognition and disease.
 
 Now, working as a postdoc, my interests broadly cover topics such as investigating functional neural organization,
@@ -59,7 +62,9 @@ teaching assistants and code contributors whose work and contributions are refle
 
 If you'd like to get in touch, you can e-mail me at `tdonoghue.research@gmail.com`.
 
-You can also find me on [Github](https://github.com/TomDonoghue) or [Twitter](https://twitter.com/TomDonoghue).
+You can also find me on
+[Github](https://github.com/TomDonoghue) or
+[Twitter](https://twitter.com/TomDonoghue).
 
 ### Website Source
 
