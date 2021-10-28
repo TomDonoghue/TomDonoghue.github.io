@@ -4,6 +4,7 @@ date: 2017-08-20
 categories: tt
 layout: post
 comments: true
+show: true
 ---
 
 {: .center}

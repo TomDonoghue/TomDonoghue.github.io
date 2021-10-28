@@ -4,6 +4,7 @@ date: 2017-05-24
 categories: sc
 layout: post
 comments: true
+show: true
 ---
 
 Lets start with a quick imagination. Picture some giants. Like actually though. Close your eyes, visualize, them - see them in your minds eye. Take a moment to experience the scene.

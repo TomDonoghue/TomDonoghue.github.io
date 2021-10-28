@@ -4,6 +4,7 @@ date: 2020-02-23
 categories: ms
 layout: post
 comments: true
+show: false
 ---
 
 One day, this blog will get back to science and research and teaching. Not this day.

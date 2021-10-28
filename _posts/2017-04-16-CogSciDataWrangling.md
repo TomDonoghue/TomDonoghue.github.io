@@ -4,6 +4,7 @@ date: 2017-04-16
 categories: ds
 layout: post
 comments: true
+show: true
 ---
 
 This week I gave a guest lecture in the Data Science class, a slightly terrifying experience given it’s a ~400 person class, and it being my first big talk on more hands-on programming topics - but I think it went pretty well. The topic was ‘Data Wrangling’ - the largely ‘administrative’ process of getting all your data ‘wrangled’ together into a usable format to do the actual analysis for a project. It’s a really messy process, and takes forever. The actual talk was a largely a tutorial, focused on being a practical guide to wrangling data by providing a crash course on file types, databases and APIs. If you’re at all interested, the Jupyter notebook I used for the talk is publicly available [here](https://github.com/COGS108/DataWrangling), and the talk was actually recorded for the class, and is also publicly available [here](https://podcast.ucsd.edu/podcasts/default.aspx?PodcastId=4122&l=6&v=1) (which I find very weird…).

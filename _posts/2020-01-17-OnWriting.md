@@ -4,6 +4,7 @@ date: 2020-01-17
 categories: ms
 layout: post
 comments: true
+show: true
 ---
 
 _Editorial Note: this post isn't about research or teaching. It's sort of about writing. It's also a 'breaking the ice' post to re-open the blog by posting editing some recent writings into something like a blog post._

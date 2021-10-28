@@ -4,6 +4,7 @@ date: 2017-11-19
 categories: sc
 layout: post
 comments: true
+show: true
 ---
 
 - In my first semester in undergrad, having declared a major of cognitive science (whatever that meant), my first heavy neuroscience class took me for a bit of a ride. With the final approaching, unorganized, and amidst moments of vague panic, I studied through the night. That’s okay, I thought, I’ll get better at this.

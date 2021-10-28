@@ -4,6 +4,7 @@ date: 2017-04-02
 categories: nx
 layout: post
 comments: true
+show: true
 ---
 
 Welcome to the blog!

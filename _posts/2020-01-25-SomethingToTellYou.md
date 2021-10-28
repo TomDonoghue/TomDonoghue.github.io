@@ -4,6 +4,7 @@ date: 2020-01-25
 categories: ms
 layout: post
 comments: true
+show: false
 ---
 
 I have something to tell you all. It may surprise some of you. It might be different from what you expected, or even what you think I've said or implied (or sometimes did say).
