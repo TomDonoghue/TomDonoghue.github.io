@@ -73,6 +73,9 @@ You can also find this information on my
 
 *Selected posters for which I was presenting author or the direct supervisor*
 
+2021
+- [Human single neuron activity encodes future trajectories](https://www.dropbox.com/s/guga5zcviv01fj5/DonoghueT-SfN2021-Presentation.pdf?dl=0)
+
 2020
 - [Considerations for Detecting & Measuring Neural Oscillations](https://www.dropbox.com/s/jz9fpdk4v8am18h/Donoghue%26Voytek-ConsiderationsMeasuringNeuralOscillations.pdf?dl=0)
 
