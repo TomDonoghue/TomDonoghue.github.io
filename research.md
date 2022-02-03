@@ -34,11 +34,16 @@ In practice, my research falls into a few different components, including:
 - 3) Experimental Work: hypothesis-driven experiments of periodic & aperiodic neural activity
 - 4) Text-Mining & Meta-Science: automated meta-analyses on the scientific literature
 
-Currently completed projects were mostly done at the
+Most of the projects currently described were done as part of my
+[PhD thesis](https://escholarship.org/uc/item/8v92g8h6) at the
 [Voytek Lab](http://voyteklab.com),
-with Professor Bradley Voytek & collaborators.
-Ongoing projects, including work on human single-neurons, is ongoing at the
-[Jacobs Lab](http://orion.bme.columbia.edu/jacobs/).
+with Professor Bradley Voytek, in the department of Cognitive Science at the
+University of California, San Diego.
+
+Project from my current postdoctoral work in the
+[Jacobs Lab](http://orion.bme.columbia.edu/jacobs/),
+in the Biomedical Engineering department at Columbia University
+will be added soon.
 
 On the rest of this page, you can find descriptions of the following projects:
 * Table of Contents
@@ -104,7 +109,7 @@ Relatedly, with
 [Brendan Ostlund](https://www.brendanostlund.com/),
 we developed a tutorial paper, including some example analyses, for applying spectral parameterization to
 developmental data, which is available in this
-[preprint](https://doi.org/10.31234/osf.io/btqyk).
+[paper](https://doi.org/10.1016/j.dcn.2022.101073).
 In terms of clinical work, in a project led by
 [Madeline Robertson](https://orcid.org/0000-0002-2761-0162),
 we analyzed EEG data from children with ADHD, and find that there is a systematic different in
@@ -154,7 +159,7 @@ This tool, which uses the PubMed API to find and collect relevant literature, al
 analyze large collections of scientific literature. For example, we did an automated meta-analysis of studies
 using event-related potentials (ERPs), using automated procedures to create data-driven summaries of ERPs.
 This project is described in this
-[preprint](https://doi.org/10.31234/osf.io/7ezmh), and hosted on a
+[paper](https://doi.org/10.1038/s41598-022-05939-9), and hosted on a
 [project website](http://erpscanr.github.io/).
 
 Working with

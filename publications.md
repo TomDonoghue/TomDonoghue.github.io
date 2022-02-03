@@ -6,6 +6,10 @@ layout: default
 
 On this page you can find a list of my published and conference materials.
 
+For the full version of my graduate work, you can check my
+[PhD thesis](https://escholarship.org/uc/item/8v92g8h6), and/or this short
+[thesis summary]({{ site.url }}/assets/DonoghueT-ThesisSummary.pdf).
+
 You can also find this information on my
 [Google scholar profile](https://scholar.google.com/citations?user=pxZ6AdsAAAAJ&hl=en).
 
@@ -16,10 +20,6 @@ You can also find this information on my
 
 *Preprints for articles currently under review*
 
-- [Automated meta-analysis of the event-related potential (ERP) literature](https://doi.org/10.31234/osf.io/7ezmh)
-    - **Donoghue T**, Voytek B
-- [Spectral parameterization for studying neurodevelopment: how and why](https://doi.org/10.31234/osf.io/btqyk)
-    - Ostlund BD, **Donoghue T**, Anaya B, Gunther KE, Karalunas SL, Voytek B, Pérez-Edgar KE
 - [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
     - He W, **Donoghue T**, Sowman PF, Seymour RA, Brock J, Crain S, Voytek B, Hillebrand A.
 
@@ -27,10 +27,16 @@ You can also find this information on my
 
 *Peer reviewed journal articles*
 
+2022
+- [Automated meta-analysis of the event-related potential (ERP) literature](https://doi.org/10.1038/s41598-022-05939-9)
+    - **Donoghue T**, Voytek B
+- [Spectral parameterization for studying neurodevelopment: how and why](https://doi.org/10.1016/j.dcn.2022.101073)
+    - Ostlund BD, **Donoghue T**, Anaya B, Gunther KE, Karalunas SL, Voytek B, Pérez-Edgar KE
+
 2021
 - [Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent](https://doi.org/10.7554/eLife.70068)
     - Waschke L, **Donoghue T**, Fiedler L, Smith S, Garrett DD, Voytek B, Obleser J
-- [Methodological Considerations for Studying Neural Oscillations]( https://doi.org/10.1111/ejn.15361)
+- [Methodological Considerations for Studying Neural Oscillations](https://doi.org/10.1111/ejn.15361)
     - **Donoghue T**, Schaworonkow N, Voytek B
 - [Teaching creative and practical data science at scale](https://doi.org/10.1080/10691898.2020.1860725)
     - **Donoghue T**, Voytek B, Ellis S
