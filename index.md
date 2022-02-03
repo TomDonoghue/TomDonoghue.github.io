@@ -23,10 +23,11 @@ For the full scientific version, you can check out my list of
 
 On this site you can find out a bit about me and my work, including:
 
-- 1) [Research](research.html): a narrative description of my research work
-- 2) [Code & Resources](code.html): links and descriptions of software and resources that I work on
-- 3) [Teaching](teaching.html): links and descriptions of my teaching activities
-- 4) [Blog](blog.html): miscellaneous writing, including a mixture of research and personal topics
+- [Research](research.html): a narrative description of my research work
+- [Code](code.html): links and descriptions of available code
+- [Resources](resources.html): links and descriptions of various resources that I work on
+- [Teaching](teaching.html): links and descriptions of my teaching activities
+- [Blog](blog.html): miscellaneous writing, including a mixture of research and personal topics
 
 ## Brief Profile
 

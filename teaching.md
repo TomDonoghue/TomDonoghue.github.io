@@ -26,7 +26,7 @@ Quick links to teaching materials that I have (co-) developed:
 [Materials](https://nbviewer.jupyter.org/github/TomDonoghue/PythonBootcamp/blob/master/ProgrammingWithPython.ipynb?flush_cache=true) -
 [Source](https://github.com/TomDonoghue/PythonBootcamp)
 
-## Courses
+## University Courses
 
 The following are undergraduate level courses that I have developed and worked on.
 
@@ -59,7 +59,7 @@ Materials for this course are available on
 We also described the goals and design of this course in this
 [paper](https://doi.org/10.1080/10691898.2020.1860725).
 
-## Other Teaching Experience
+## Other Courses
 
 The following are short courses and teaching programs that I have participated in.
 

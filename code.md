@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Code & Resources
+# Code
 
-This page contains links to code projects I work on, as well as resources I create and curate.
+This page contains links to code projects that I work on.
 
 * Table of Contents
 {:toc}
@@ -22,6 +22,12 @@ My code is on Github, including on my
 [personal page](https://github.com/TomDonoghue), the
 [VoytekLab page](https://github.com/voytekresearch), and is indexed
 [here](https://github.com/TomDonoghue/TomDonoghue/blob/main/codemap.md).
+
+Note that code specifically related to
+[teaching](teaching.html)
+and/or
+[resources](resources.html)
+(such as visualizations) are listed on those pages.
 
 ## Open-Source Packages
 
@@ -82,82 +88,7 @@ a tool for analyzing single-unit neural data.
 I also strive to make the code underlying individual projects openly available.
 
 The following project have openly available analysis code:
-- [Parameterizing neural power spectra](https://github.com/fooof-tools/Paper)
-- [Oscillation-Methods](https://github.com/OscillationMethods/OscillationMethods)
-- [ERPscanr](https://github.com/ERPscanr/ERPscanr)
-- [Band Ratios](https://github.com/voytekresearch/bandratios)
-
-## Visualizations
-
-I also sometimes create visualizations for projects and methods, including the following projects.
-
-You might see these visualizers show up on my
-[blog](blog.html) or on my
-[twitter](https://twitter.com/TomDonoghue).
-
-### Oscillation Methods Visualizers
-
-A collection of animated gifs for the
-[Oscillation Methods](https://github.com/OscillationMethods/OscillationMethods) project,
-describing methodological considerations
-for measuring and interpreting periodic neural activity.
-
-[Site](https://oscillationmethods.github.io/docs/viz.html) -
-[Source](https://github.com/OscillationMethods/Visualizers)
-
-### Digital Signal Processing Visualizers
-
-A collection of animated plots and gifs for topics related to  digital signal processing (DSP),
-especially as it relates to neural data.
-
-[Source](https://github.com/TomDonoghue/SigViz)
-
-### Interactive Oscillation Visualization
-
-A small set of interactive visualizations about some common ideas in electrophysiology
-and time series analysis.
-
-[Site](http://icogsci1.ucsd.edu/~tdonoghu/) -
-[Source](https://github.com/TomDonoghue/osc_viz)
-
-## Resources
-
-The following are resources that may be useful for organized, robust, open science,
-including resources I have created, and curated links to external sources.
-
-### Open Lists
-
-I keep a public collection of available resources on
-[OpenLists](https://github.com/OpenLists), which are listed
-[here](https://github.com/openlists/Overview).
-
-The open lists include:
-- [Electrophysiology Data](https://github.com/openlists/ElectrophysiologyData),
-a list of openly available electrophysiological datasets
-- [Electrophysiology Software](https://github.com/openlists/ElectrophysiologySoftware),
-a list of software packages for working with electrophysiology data
-- [Spike Resources](https://github.com/openlists/SpikeResources),
-a list of tooling and resources for single-unit neural data analysis
-- [Python Resources](https://github.com/openlists/PythonResources),
-a list of resources for learning Python
-- [DSP Resources](https://github.com/openlists/DSPResources),
-a list of resources for learning digital signal processing
-- [Git Resources](https://github.com/openlists/GitResources),
-a list of resources for learning git & Github
-
-### Structured Science
-
-I also collect and develop
-[resources and templates](https://github.com/structuredscience/)
-for doing organized research projects.
-
-Mostly, this includes templates, including:
-
-- [A general project template](https://github.com/structuredscience/ProjectTemplate)
-for organizing a repository
-- [An EEG project template](https://github.com/structuredscience/EEGTemplate)
-for organizing and preprocessing projects with EEG data
-- [A task template](https://github.com/structuredscience/TaskTemplate)
-for designing and organizing code for behavioral tasks
-- [A paper template](https://github.com/structuredscience/PaperTemplate)
-for writing up a project
+- [Frequency band ratio measures conflate periodic and aperiodic neural activity](https://github.com/voytekresearch/bandratios)
+- [Parameterizing neural power spectra into periodic and aperiodic components](https://github.com/fooof-tools/Paper)
+- [Methodological considerations for studying neural oscillations](https://github.com/OscillationMethods/OscillationMethods)
+- [Automated meta-analysis of the event-related potential (ERP) literature](https://github.com/ERPscanr/ERPscanr)
