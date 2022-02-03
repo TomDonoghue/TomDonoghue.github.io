@@ -4,6 +4,9 @@ _drafts/*
 # Ignore the local site build
 _site/*
 
-# Ignore cache & mac files
+# Ignore cache directories
 .sass-cache/*
+.jekyll-cache/*
+
+# Ignore mac files
 .DS_Store
