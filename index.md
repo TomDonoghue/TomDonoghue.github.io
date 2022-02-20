@@ -75,4 +75,4 @@ and the source repository is available
 [here](https://github.com/TomDonoghue/TomDonoghue.github.io).
 
 This page is usually up to date. You can check the last updated date on website
-[update log](https://github.com/TomDonoghue/TomDonoghue.github.io/commits/master).
+[update log](https://github.com/TomDonoghue/TomDonoghue.github.io/commits/main).
