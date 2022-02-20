@@ -41,6 +41,7 @@ for measuring and interpreting periodic neural activity.
 A collection of animated plots and gifs for topics related to  digital signal processing (DSP),
 especially as it relates to neural data.
 
+[Site](https://tomdonoghue.github.io/SigViz/) -
 [Source](https://github.com/TomDonoghue/SigViz)
 
 ### Interactive Oscillation Visualization
@@ -53,9 +54,11 @@ and time series analysis.
 
 ## Open Lists
 
-I keep a public collection of available resources on
-[OpenLists](https://github.com/OpenLists), with an overview available
-[here](https://github.com/openlists/Overview).
+OpenLists is a collection of lists of available resources on for doing open science.
+
+[Source](https://github.com/OpenLists) -
+[Overview](https://github.com/openlists/Overview) -
+[Site](https://openlists.github.io/)
 
 The open lists include:
 - [Electrophysiology Data](https://github.com/openlists/ElectrophysiologyData),
@@ -70,20 +73,32 @@ a list of resources for learning Python
 a list of resources for learning digital signal processing
 - [Git Resources](https://github.com/openlists/GitResources),
 a list of resources for learning git & Github
+- [Task Resources](https://github.com/openlists/OpenTasks),
+a list of available software platforms and resources for creating behavioral tasks
+- [NeuroOntologies](https://github.com/openlists/NeuroOntologies),
+a list of ontologies and related resources related to neuroscience
+- [Other Lists](https://github.com/openlists/OtherLists),
+a list of other list
 
 ## Structured Science
 
-I also collect and develop
-[resources and templates](https://github.com/structuredscience/)
-for organizing research projects.
+StructuredScience is a collection of tools, templates, and tips for organizing research projects.
 
-Mostly, this includes templates, including:
+[Source](https://github.com/structuredscience/) -
+[Overview](https://github.com/structuredscience/Overview) -
+[Site](https://structuredscience.github.io/)
 
-- [A general project template](https://github.com/structuredscience/ProjectTemplate)
+Templates available on StructuredScience include:
+
+- A [project repository template](https://github.com/structuredscience/ProjectTemplate)
 for organizing a repository
-- [An EEG project template](https://github.com/structuredscience/EEGTemplate)
-for organizing and preprocessing projects with EEG data
-- [A task template](https://github.com/structuredscience/TaskTemplate)
-for designing and organizing code for behavioral tasks
-- [A paper template](https://github.com/structuredscience/PaperTemplate)
+- A [project directory template](https://github.com/structuredscience/ProjectDirectoryTemplate)
+for organizing the directory structure for a scientific project
+- A [paper template](https://github.com/structuredscience/PaperTemplate)
 for writing up a project
+- A [module template](https://github.com/structuredscience/ModuleTemplate)
+for organizing a Python module
+- An [EEG project template](https://github.com/structuredscience/EEGTemplate)
+for organizing and preprocessing projects with EEG data
+- A [task template](https://github.com/structuredscience/TaskTemplate)
+for designing and organizing code for behavioral tasks
