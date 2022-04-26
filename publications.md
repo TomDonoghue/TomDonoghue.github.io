@@ -20,6 +20,8 @@ You can also find this information on my
 
 *Preprints for articles currently under review*
 
+- [How can we differentiate narrow-band oscillations from aperiodic activity?](https://doi.org/10.31234/osf.io/k6nhd)
+    - **Donoghue T**, Watrous AJ
 - [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
     - He W, **Donoghue T**, Sowman PF, Seymour RA, Brock J, Crain S, Voytek B, Hillebrand A.
 
