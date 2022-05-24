@@ -30,6 +30,8 @@ You can also find this information on my
 *Peer reviewed journal articles*
 
 2022
+- [Course Materials for Data Science in Practice](https://doi.org/10.21105/jose.00121)
+    - **Donoghue T**, Voytek B, Ellis SE
 - [Automated meta-analysis of the event-related potential (ERP) literature](https://doi.org/10.1038/s41598-022-05939-9)
     - **Donoghue T**, Voytek B
 - [Spectral parameterization for studying neurodevelopment: how and why](https://doi.org/10.1016/j.dcn.2022.101073)
@@ -41,7 +43,7 @@ You can also find this information on my
 - [Methodological Considerations for Studying Neural Oscillations](https://doi.org/10.1111/ejn.15361)
     - **Donoghue T**, Schaworonkow N, Voytek B
 - [Teaching creative and practical data science at scale](https://doi.org/10.1080/10691898.2020.1860725)
-    - **Donoghue T**, Voytek B, Ellis S
+    - **Donoghue T**, Voytek B, Ellis SE
 
 2020
 - [Parameterizing neural power spectra into periodic and aperiodic components](https://doi.org/10.1038/s41593-020-00744-x)
