@@ -36,12 +36,12 @@ You can also find this information on my
     - **Donoghue T**, Voytek B
 - [Spectral parameterization for studying neurodevelopment: how and why](https://doi.org/10.1016/j.dcn.2022.101073)
     - Ostlund BD, **Donoghue T**, Anaya B, Gunther KE, Karalunas SL, Voytek B, Pérez-Edgar KE
+- [Methodological Considerations for Studying Neural Oscillations](https://doi.org/10.1111/ejn.15361)
+    - **Donoghue T**, Schaworonkow N, Voytek B
 
 2021
 - [Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent](https://doi.org/10.7554/eLife.70068)
     - Waschke L, **Donoghue T**, Fiedler L, Smith S, Garrett DD, Voytek B, Obleser J
-- [Methodological Considerations for Studying Neural Oscillations](https://doi.org/10.1111/ejn.15361)
-    - **Donoghue T**, Schaworonkow N, Voytek B
 - [Teaching creative and practical data science at scale](https://doi.org/10.1080/10691898.2020.1860725)
     - **Donoghue T**, Voytek B, Ellis SE
 
