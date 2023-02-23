@@ -20,6 +20,8 @@ You can also find this information on my
 
 *Preprints for articles currently under review*
 
+- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://doi.org/10.1101/2023.02.22.529437)
+    - **Donoghue T**, Cao R, Han CZ, Holman CM, Brandmeir NJ, Wang S, Jacobs J
 - [How can we differentiate narrow-band oscillations from aperiodic activity?](https://doi.org/10.31234/osf.io/k6nhd)
     - **Donoghue T**, Watrous AJ
 - [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
@@ -82,6 +84,13 @@ You can also find this information on my
 ## Conference Posters
 
 *Selected posters for which I was presenting author or the direct supervisor*
+
+2022
+- [Methodological Considerations for Measuring Spectral Features](https://www.dropbox.com/s/17h9ns8pw1kyw3c/DonoghueT-AESposter.pdf?dl=0)
+- [Single-neurons in the human medial temporal lobe engage in distinct aspects of different tasks](https://www.dropbox.com/s/pw51hah6oiotqpg/DonoghueEtaL-2022_SfN%26HSN-TH.pdf?dl=0)
+    - Presented by Sandra Maesta Periera
+- [Conjunctive Encoding in Human Place and Time Cells](https://www.dropbox.com/s/s2qj98swu0yivxw/MaestaPereiraEtal-2022_SfN%26HSN_T3.pdf?dl=0)
+    - Presented by Claire Z Han
 
 2021
 - [Human single neuron activity encodes future trajectories](https://www.dropbox.com/s/guga5zcviv01fj5/DonoghueT-SfN2021-Presentation.pdf?dl=0)
