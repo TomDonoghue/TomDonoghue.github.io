@@ -81,7 +81,8 @@ a tool for analyzing single-unit neural data.
 `spiketools` is a collections of tools for processing and analyzing single-unit neural data.
 
 [Github](https://github.com/spiketools/spiketools) -
-[Documentation](https://spiketools.github.io/)
+[Documentation](https://spiketools.github.io/) -
+[Pypi](https://pypi.org/project/spiketools/)
 
 ## Project Code
 
