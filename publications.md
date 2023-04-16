@@ -20,8 +20,6 @@ You can also find this information on my
 
 *Preprints for articles currently under review*
 
-- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://doi.org/10.1101/2023.02.22.529437)
-    - **Donoghue T**, Cao R, Han CZ, Holman CM, Brandmeir NJ, Wang S, Jacobs J
 - [How can we differentiate narrow-band oscillations from aperiodic activity?](https://doi.org/10.31234/osf.io/k6nhd)
     - **Donoghue T**, Watrous AJ
 - [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
@@ -30,6 +28,13 @@ You can also find this information on my
 ## Journal Articles
 
 *Peer reviewed journal articles*
+
+2023
+
+- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://doi.org/10.1002/hipo.23539)
+    - **Donoghue T**, Cao R, Han CZ, Holman CM, Brandmeir NJ, Wang S, Jacobs J
+- [Using multi-task experiments to test principles of hippocampal function](https://doi.org/10.1002/hipo.23540)
+    - Han CZ, **Donoghue T**, Cao R, Kunz L, Wang S, Jacobs J
 
 2022
 - [Course Materials for Data Science in Practice](https://doi.org/10.21105/jose.00121)
