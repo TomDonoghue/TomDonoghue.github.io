@@ -84,11 +84,24 @@ a tool for analyzing single-unit neural data.
 [Documentation](https://spiketools.github.io/) -
 [Pypi](https://pypi.org/project/spiketools/)
 
+## Pipelines
+
+Pipelines for processing particular datatypes.
+
+### Human Single-Unit Pipeline
+
+`HSUPipeline` is a pipeline for processing and analyzing single-unit neural data from human subjects.
+It includes templates for pre-processing, organizing, and analyzing human single-unit data.
+
+[Github](https://github.com/HSUpipeline/) -
+[Website](https://hsupipeline.github.io/)
+
 ## Project Code
 
 I also strive to make the code underlying individual projects openly available.
 
 The following project have openly available analysis code:
+- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://github.com/HSUpipeline/analyzeTH)
 - [Frequency band ratio measures conflate periodic and aperiodic neural activity](https://github.com/voytekresearch/bandratios)
 - [Parameterizing neural power spectra into periodic and aperiodic components](https://github.com/fooof-tools/Paper)
 - [Methodological considerations for studying neural oscillations](https://github.com/OscillationMethods/OscillationMethods)
