@@ -9,9 +9,10 @@ You can also skip right to the
 
 # Research Overview
 
-I find one of the most intriguing aspects of cognitive neuroscience to be the extreme flexibility
-we seem to have - despite a relatively fixed neural anatomy, we are able to quickly and flexibly
-react to an ever changing world. The brain is constantly receiving dizzying amounts of information.
+To me, one of the most interesting questions in cognitive and computational neuroscience is
+to try and understand the biological underpinnings of our high degree or behavioral flexibility,
+in which we are able to quickly and flexibly react to an ever changing world.
+As part of this ever changing world, the human brain is constantly receiving dizzying amounts of information.
 Despite this, it is (usually) able to select important inputs, figure out what is going on,
 and come up with appropriate responses. Doing all this requires powerful processes to parse,
 select, and organize incoming information, and flexibly choose and direct systematic outputs.
@@ -40,7 +41,7 @@ Most of the projects currently described were done as part of my
 with Professor Bradley Voytek, in the department of Cognitive Science at the
 University of California, San Diego.
 
-Project from my current postdoctoral work in the
+Projects from my current postdoctoral work in the
 [Jacobs Lab](http://orion.bme.columbia.edu/jacobs/),
 in the Biomedical Engineering department at Columbia University
 will be added soon.
