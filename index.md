@@ -2,7 +2,14 @@
 layout: default
 ---
 
+
+{:refdef: style="text-align: center;"}
+![ME]({{ site.url }}/assets/pics/headshot.png)
+{: refdef}
+
+{:refdef: style="text-align: center;"}
 # Welcome!
+{: refdef}
 
 Hello, I'm Tom! I'm a scientist, and I work on research in the area of computational and cognitive neuroscience.
 I am currently a postdoctoral research scientist in the laboratory of
