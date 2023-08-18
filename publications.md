@@ -20,8 +20,8 @@ You can also find this information on my
 
 *Preprints for articles currently under review*
 
-- [How can we differentiate narrow-band oscillations from aperiodic activity?](https://doi.org/10.31234/osf.io/k6nhd)
-    - **Donoghue T**, Watrous AJ
+- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes](https://doi.org/10.1101/2023.06.11.544491)
+    - Kopčanová M, Tait L, **Donoghue T**, Stothart G, Smith L, Flores Sandoval AA, Buss S, Shafi M, Pascual-Leone A, Fried PJ, Benwell CSY
 - [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
     - He W, **Donoghue T**, Sowman PF, Seymour RA, Brock J, Crain S, Voytek B, Hillebrand A.
 
@@ -65,6 +65,13 @@ You can also find this information on my
     - **Donoghue T**
 - [NeuroDSP: A package for neural digital signal processing](https://joss.theoj.org/papers/10.21105/joss.01272)
     - Cole S, **Donoghue T**, Gao R, Voytek B
+
+## Book Chapters
+
+2023
+
+- [How can we differentiate narrow-band oscillations from aperiodic activity?](https://doi.org/10.1007/978-3-031-20910-9_22)
+    - **Donoghue T**, Watrous AJ
 
 ## Conference Papers
 
