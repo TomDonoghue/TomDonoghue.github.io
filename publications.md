@@ -20,17 +20,22 @@ You can also find this information on my
 
 *Preprints for articles currently under review*
 
-- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes](https://doi.org/10.1101/2023.06.11.544491)
-    - Kopčanová M, Tait L, **Donoghue T**, Stothart G, Smith L, Flores Sandoval AA, Buss S, Shafi M, Pascual-Leone A, Fried PJ, Benwell CSY
-- [Co-Increasing Neuronal Noise and Beta Power in the Developing Brain](https://doi.org/10.1101/839258)
-    - He W, **Donoghue T**, Sowman PF, Seymour RA, Brock J, Crain S, Voytek B, Hillebrand A.
+- [The Temporal Dynamics of Aperiodic Neural Activity Track Changes in Sleep Architecture](https://doi.org/10.1101/2024.01.25.577204)
+    - Ameen MS, Jacobs J, Schabus M, Hoedlmoser, **Donoghue T**
 
 ## Journal Articles
 
 *Peer reviewed journal articles*
 
+2024
+
+- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes](https://doi.org/10.1016/j.nbd.2023.106380)
+    - Kopčanová M, Tait L, **Donoghue T**, Stothart G, Smith L, Flores-Sandoval AA, Davila-Perez P, Buss S, Shafi MM, Pascual-Leone A, Fried PJ, Benwell CSY
+
 2023
 
+- [spiketools: a Python package for analyzing single-unit neural activity](https://doi.org/10.21105/joss.05268)
+    - **Donoghue T**, Maesta Pereira S, Han CZ, Qasim SE, Jacobs J
 - [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://doi.org/10.1002/hipo.23539)
     - **Donoghue T**, Cao R, Han CZ, Holman CM, Brandmeir NJ, Wang S, Jacobs J
 - [Using multi-task experiments to test principles of hippocampal function](https://doi.org/10.1002/hipo.23540)
@@ -96,6 +101,12 @@ You can also find this information on my
 ## Conference Posters
 
 *Selected posters for which I was presenting author or the direct supervisor*
+
+2023
+
+- [The Temporal Dynamics of Aperiodic Activity Track Changes in Sleep Structure](https://www.dropbox.com/scl/fi/npzbja4ioseqevesit95i/AmeenEtAl-SleepPoster.pdf?rlkey=29d17una2jjlqucgj98eet1z7&dl=0)
+    - Project led by Mohamed S Ameen
+- [Conjunctive encoding in human place and time cells and their relation to spatial memory](https://www.dropbox.com/scl/fi/md7g7wq2d799k1bedx2as/DonoghueEtAl-T3Poster.pdf?rlkey=2jnxzj0qnsldp5o9sqby1600y&dl=0)
 
 2022
 - [Methodological Considerations for Measuring Spectral Features](https://www.dropbox.com/s/17h9ns8pw1kyw3c/DonoghueT-AESposter.pdf?dl=0)
