@@ -29,11 +29,11 @@ on my phone, wandering the hills around San Francisco.
 
 It is, of course, ironic to find myself procrastinating writing by... writing. By writing the wrong words. Not that these words are wrong, per se, but they are not the ones I need. I have considered re-purposing them and just dropping them into a Discussion section somewhere, but I think the neighboring Results section, so dutifully crafted to report exactitudes and remove all ambiguity and interest, might be disgruntled at having such an unruly neighbor. Nerd.
 
-At least wandering around San Francisco I knew what I was writing about. This post, I am less sure what it is about. I think perhaps it is an undirected reaction to the act of crafting such specific words on such specific topics for specific people - words so dutifully concocted so that those people may, in a moment of ignoring their own screaming drafts, at least glance at them sometime and nod along in with a vague sense of recognition.
+At least wandering around San Francisco I knew what I was writing about. This post, I am less sure what it is about. I think perhaps it is an undirected reaction to the act of crafting such specific words on such specific topics for specific people - words so dutifully concocted so that those people may, in a moment of ignoring their own screaming drafts, at least glance at them sometime and nod along with a vague sense of recognition.
 
 And to be clear, I do like writing specific words about specific things. At least sometimes. But also, in my head lie multitudes of unspecified thoughtlets - hints of ideas that may one day become thoughts, become words, become written or become spoken - or may not. Thoughtlets, that do not say anything specific. Thoughtlets that manage to embody the concepts half-heartedly offered by an English class that I didn't even know I was listening to about how sometimes a pen is a dull and laborious implement, dragged half-heartedly around the outline of a story pre-written; but how sometimes it can be an unwieldy and giddy guide, dragging unwitting fingers around to sketch out the shapes of stories they didn't even know they knew.
 
-So if you've read these reads - written non-specifically for no one in particular - thank you for entertaining my meandering thoughtlets. Now if you'll excuse me, there's a grumpy old bastard I need to attend to.
+So if you've read these words - written non-specifically for no one in particular - thank you for entertaining my meandering thoughtlets. Now if you'll excuse me, there's a grumpy old bastard I need to attend to.
 
 --
 
