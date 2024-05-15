@@ -4,20 +4,19 @@ layout: default
 
 This page includes a narrative overview of my research, organized into different 'themes'.
 
-You can also skip right to the
+You can also skip right to my
 [publications](publications.html).
 
 # Research Overview
 
-To me, one of the most interesting questions in cognitive and computational neuroscience is
-to try and understand the biological underpinnings of our high degree or behavioral flexibility,
-in which we are able to quickly and flexibly react to an ever changing world.
-As part of this ever changing world, the human brain is constantly receiving dizzying amounts of information.
-Despite this, it is (usually) able to select important inputs, figure out what is going on,
+The human brain is constantly receiving dizzying amounts of information.
+Despite this, it is (usually) able to select important inputs, process what they mean,
 and come up with appropriate responses. Doing all this requires powerful processes to parse,
 select, and organize incoming information, and flexibly choose and direct systematic outputs.
 How is it that the brain is able to organize all of its seemingly chaotic activity in order to allow us to
 systematically respond in structured ways, ultimately allowing for allowing us to do everything that we do?
+In my research, I try to understand how patterns of neural activity contribute to this high degree
+of behavioral flexibility, in which we are able to quickly and flexibly react to an ever changing world.
 
 Alternately put, the brain must have some powerful organizational capacities for coordinating activity,
 allowing for the functional organization of brain activity. With this idea in mind, in my work I focus
@@ -33,7 +32,8 @@ In practice, my research falls into a few different components, including:
 - 1) Methods Development: developing methods and software tools to analyze neural data
 - 2) Descriptive Work: exploring properties and patterns of neural data at scale
 - 3) Experimental Work: hypothesis-driven experiments of periodic & aperiodic neural activity
-- 4) Text-Mining & Meta-Science: automated meta-analyses on the scientific literature
+- 4) Physiological Work: examining the activity of individual neurons
+- 5) Text-Mining & Meta-Science: automated meta-analyses on the scientific literature
 
 Most of the projects currently described were done as part of my
 [PhD thesis](https://escholarship.org/uc/item/8v92g8h6) at the
@@ -50,7 +50,7 @@ On the rest of this page, you can find descriptions of the following projects:
 * Table of Contents
 {:toc}
 
-## Methods Work: Measuring Periodic & Aperiodic Neural Activity
+## Methods Development: Measuring Periodic & Aperiodic Neural Activity
 
 ![Methods]({{ site.url }}/assets/pics/methods_web.png)
 
@@ -77,45 +77,48 @@ These methods-related projects are largely driven by simulated data, including w
 [NeuroDSP](https://github.com/neurodsp-tools/neurodsp) toolbox, which is described in this
 [paper](https://joss.theoj.org/papers/10.21105/joss.01272).
 
-## Descriptive Work: Electrophysiological Data Mapping & Data Integration
+## Descriptive Work: Electrophysiological Data Mapping
 
 ![MEG]({{ site.url }}/assets/pics/mapping_web.png)
 
 Quick Version: The 'what, when, and where' of neuro-electrophysiological data.
 
 Descriptively, I work on projects investigating the 'where, when, and what' of periodic and aperiodic
-neural activity, characterizing both periodic and aperiodic activity across the human cortex, as well
-as investigating how this relates to other measures such as structural connectivity,
-gene expression and/or functional associations.
-In general, this includes analyzing large, open-access dataset, and applying our novel methods
-to measure periodic and aperiodic components. This includes analyzing a large dataset of magnetoencephalography
-(MEG) data, some analyses of which are included in the
-[parameterization](https://doi.org/10.1038/s41593-020-00744-x) paper,
-and a large EEG dataset, some analyses of which are included in the
-[band-ratios](https://doi.org/10.1523/ENEURO.0192-20.2020) paper.
+neural activity, characterizing both periodic and aperiodic activity across the human cortex, and
+how this varies across people across different ages, and within people across different brain states.
+
+In order to analyze and describe typical patterns of neural activity, I work on projects that analyze large,
+open-access datasets, and apply our novel methods to measure periodic and aperiodic components.
+This includes analyzing a large datasets of magnetoencephalography (MEG) data
+(included in the [parameterization](https://doi.org/10.1038/s41593-020-00744-x) paper) and
+EEG data (included in the [band-ratios](https://doi.org/10.1523/ENEURO.0192-20.2020) paper).
 A follow-up report on this project is currently in preparation, with some additional analyses also
 currently available in conference posters
 ([SfN2018](https://www.dropbox.com/s/alwwb6ahb1wjank/MdandaEtal-SfN2018.pdf?dl=0),
 [Biomag2018](https://www.dropbox.com/s/k5koyibwuaclx5k/DonoghueEtal-Biomag2018.pdf?dl=0),
 [Neuroinformatics2018](https://www.dropbox.com/s/al0bggj4mgqffat/DonoghueEtal-Neuroinformatics2018.pdf?dl=0)).
 
-As well as this work which seeks to describe typical patterns of periodic & aperiodic activity
-in non-clinical, mostly adult populations, with collaborators, I have been involved in projects
-investigating neural activity across development and in clinical situations. In a project led by
-[Wei He](https://researchers.mq.edu.au/en/persons/wei-he),
-we investigated patterns of aperiodic activity across development in a cohort of children with MEG data,
-finding a systematic change in aperiodic activity during development, as described in this
-[preprint](https://doi.org/10.1101/839258).
-Relatedly, with
-[Brendan Ostlund](https://www.brendanostlund.com/),
-we developed a tutorial paper, including some example analyses, for applying spectral parameterization to
-developmental data, which is available in this
-[paper](https://doi.org/10.1016/j.dcn.2022.101073).
-In terms of clinical work, in a project led by
-[Madeline Robertson](https://orcid.org/0000-0002-2761-0162),
+Beyond examining patterns of periodic & aperiodic activity in healthy adult populations,
+I am also involved in projects investigating neural activity across development and in different brain states.
+In developmental work, this includes work examining systematic changes in aperiodic activity across
+childhood (work led by [Wei He](https://researchers.mq.edu.au/en/persons/wei-he), presented in this
+[preprint](https://doi.org/10.1101/839258), as well as a tutorial paper for applying spectral
+parameterization to developmental data (work led by [Brendan Ostlund](https://www.brendanostlund.com/),
+presented in this [paper](https://doi.org/10.1016/j.dcn.2022.101073).
+Work examining patterns of activity across different brain states includes analyses of
+aperiodic activity during anesthesia (including in this [paper](https://doi.org/10.7554/eLife.70068)),
+and across sleep stages (work led by [Mohamed S. Ameen](https://orcid.org/0000-0003-4147-490X),
+presented in this [preprint](https://doi.org/10.1101/2024.01.25.577204).
+
+In addition, I contribute to clinical work, across multiple disease contexts. For example,
+in a project led by [Madeline Robertson](https://orcid.org/0000-0002-2761-0162),
 we analyzed EEG data from children with ADHD, and find that there is a systematic different in
 aperiodic activity in this group, as described in this
-[paper](https://doi.org/10.1152/jn.00388.2019).
+[paper](https://doi.org/10.1152/jn.00388.2019). In another project,
+led by [Martina Kopčanová](https://orcid.org/0009-0004-0300-3343),
+we analyzed data from patients with Alzheimer's dementia, demonstrating that in this case, it is
+periodic, but not aperiodic activity that differentiates clinical from control populations,
+as presented in this [paper](https://doi.org/10.1016/j.nbd.2023.106380).
 
 ## Experimental Work: Task-Related Periodic & Aperiodic Activity
 
@@ -136,14 +139,36 @@ A follow up (offline) experiment examining the role of oscillatory phase in perc
 [SfN-2016](https://www.dropbox.com/s/gvcsj2l2dzw3ler/TDonoghue_PhaseAttention_SfN2016.pdf?dl=0).
 
 In other work, we investigate task-related dynamics of aperiodic neural activity. In work led by
-[Leo Waschke](https://twitter.com/leowaschke),
-we did an experiment in which we presented subjects with stimuli that itself has 1/f properties.
-By manipulating both the stimulus characteristics, and the attentional focus of the subjects,
-we were able to show how perceptual and attentional task elements systematically affect event-related
-aperiodic neural activity. This work is described in this
-[paper](https://doi.org/10.7554/eLife.70068).
+[Leo Waschke](https://orcid.org/0000-0002-1248-9259), we did an experiment in which we presented subjects
+with stimuli that itself has 1/f properties. By manipulating both the stimulus characteristics,
+and the attentional focus of the subjects, we were able to show how perceptual and attentional
+task elements systematically affect event-related aperiodic neural activity.
+This work is described in this [paper](https://doi.org/10.7554/eLife.70068).
 
-## Meta-Science Work: Automated Meta-Analyses of the Scientific Literature
+## Physiological Work: Examining the Activity of Individual Neurons
+
+![Neurons]({{ site.url }}/assets/pics/neurons_web.png)
+
+Quick Version: Investigating patterns of single-unit activity.
+
+The aforementioned work examines patterns of neural activity that can be examined from the
+local field potential, reflecting the contribution of thousands to millions of individual neurons.
+In order to better understand the activity of individual neurons (and ultimately, how this contributes
+to the local field), I also have a line of research  in which I analyze the activity of individual
+neurons that can be recorded from awake, behaving humans who are in the hospital for epilepsy monitoring.
+
+Methodologically, my work in single-units includes developing the
+[Human Single Unit pipeline](https://hsupipeline.github.io/), a pipeline for managing
+and doing projects with single-unit activity including the use of standardized data formats
+as well as the [spiketools]https://github.com/spiketools/spiketools) Python module for analyzing
+single-unit recordings. Empirically, with [Claire Z Han](https://orcid.org/0000-0001-9710-8381) and
+[Runnan Cao](https://orcid.org/0000-0001-5827-9903) we did ran an experiment examining neural
+responses to faces and objects, comparing between an n-back memory task and a spatial navigation
+episodic memory task. In this work, we find neurons in the human medial temporal lobe that flexibly
+shift representations across different behavioral contexts, which is presented in this
+[paper](https://doi.org/10.1002/hipo.23539).
+
+## Meta-Science: Automated Meta-Analyses of the Scientific Literature
 
 ![ERP]({{ site.url }}/assets/pics/literature_web.png)
 
@@ -159,14 +184,11 @@ To do so, I created a Python module for performing collection and analysis of th
 This tool, which uses the PubMed API to find and collect relevant literature, allows us to systematically and automatically
 analyze large collections of scientific literature. For example, we did an automated meta-analysis of studies
 using event-related potentials (ERPs), using automated procedures to create data-driven summaries of ERPs.
-This project is described in this
-[paper](https://doi.org/10.1038/s41598-022-05939-9), and hosted on a
+This project is described in this [paper](https://doi.org/10.1038/s41598-022-05939-9), and hosted on a
 [project website](http://erpscanr.github.io/).
 
-Working with
-[Richard Gao](http://www.rdgao.com/),
-this work has been generalized to explore topics across cognition,
-resulting in a couple conference papers
+Working with [Richard Gao](http://www.rdgao.com/), this work has been generalized to explore
+topics across cognition, resulting in a couple conference papers
 ([Cogsci2017](https://mindmodeling.org/cogsci2017/papers/0395/paper0395.pdf),
 [CCN2019](https://ccneuro.org/2019/proceedings/0001130.pdf)).
 In work led by Will Fox, we have extended this project to investigating aspects of scientific communication,

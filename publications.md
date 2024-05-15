@@ -21,7 +21,7 @@ You can also find this information on my
 *Preprints for articles currently under review*
 
 - [The Temporal Dynamics of Aperiodic Neural Activity Track Changes in Sleep Architecture](https://doi.org/10.1101/2024.01.25.577204)
-    - Ameen MS, Jacobs J, Schabus M, Hoedlmoser, **Donoghue T**
+    - Ameen MS, Jacobs J, Schabus M, Hoedlmoser K, **Donoghue T**
 
 ## Journal Articles
 
