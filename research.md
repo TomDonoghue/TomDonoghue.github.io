@@ -50,7 +50,7 @@ On the rest of this page, you can find descriptions of the following projects:
 * Table of Contents
 {:toc}
 
-## Methods Development: Measuring Periodic & Aperiodic Neural Activity
+## Methods Development: Measuring Periodic & Aperiodic Activity
 
 ![Methods]({{ site.url }}/assets/pics/methods_web.png)
 
