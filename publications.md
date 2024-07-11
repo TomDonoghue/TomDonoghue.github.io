@@ -102,8 +102,11 @@ You can also find this information on my
 
 *Selected posters for which I was presenting author or the direct supervisor*
 
-2023
+2024
+- [specparam2.0: Spectral parameterization with time-resolved estimates and updated model forms](https://www.dropbox.com/scl/fi/55gmztx2dppfqjffn90wp/DonoghueEtal-FENS-specparam2.pdf?rlkey=37ad5dpibcjem4ruv02d8oo6k&st=hbzwisyv&dl=0)
+- [Conjunctive encoding in human place and time cells and their relation to spatial memory](https://www.dropbox.com/scl/fi/a1ov49ox615i35rxs95vb/DonoghueEtal-T3-iNav.pdf?rlkey=yqu3l5hfxnr244y20d8zlvbd1&st=ki6vmube&dl=0)
 
+2023
 - [The Temporal Dynamics of Aperiodic Activity Track Changes in Sleep Structure](https://www.dropbox.com/scl/fi/npzbja4ioseqevesit95i/AmeenEtAl-SleepPoster.pdf?rlkey=29d17una2jjlqucgj98eet1z7&dl=0)
     - Project led by Mohamed S Ameen
 - [Conjunctive encoding in human place and time cells and their relation to spatial memory](https://www.dropbox.com/scl/fi/md7g7wq2d799k1bedx2as/DonoghueEtAl-T3Poster.pdf?rlkey=2jnxzj0qnsldp5o9sqby1600y&dl=0)
