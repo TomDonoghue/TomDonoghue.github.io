@@ -20,6 +20,8 @@ You can also find this information on my
 
 *Preprints for articles currently under review*
 
+- [Evaluating and Comparing Measures of Aperiodic Neural Activity](https://doi.org/10.1101/2024.09.15.613114)
+    - Donoghue T, Hammonds R, Eric Lybrand, Waschke L, Gao R, & Voytek B
 - [The Temporal Dynamics of Aperiodic Neural Activity Track Changes in Sleep Architecture](https://doi.org/10.1101/2024.01.25.577204)
     - Ameen MS, Jacobs J, Schabus M, Hoedlmoser K, **Donoghue T**
 
