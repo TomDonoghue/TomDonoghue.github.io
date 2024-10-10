@@ -22,6 +22,8 @@ You can also find this information on my
 
 - [Evaluating and Comparing Measures of Aperiodic Neural Activity](https://doi.org/10.1101/2024.09.15.613114)
     - **Donoghue T**, Hammonds R, Eric Lybrand, Waschke L, Gao R, & Voytek B
+- [Aperiodic neural excitation of the prefrontal cortex offsets age-related decrease in hippocampal theta activity for spatial memory maintenance](https://doi.org/10.1101/2024.10.03.616418)
+    - Park SE, **Donoghue T**, Jacobs J, Lee SA.
 - [The Temporal Dynamics of Aperiodic Neural Activity Track Changes in Sleep Architecture](https://doi.org/10.1101/2024.01.25.577204)
     - Ameen MS, Jacobs J, Schabus M, Hoedlmoser K, **Donoghue T**
 
