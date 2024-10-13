@@ -107,7 +107,7 @@ You can also find this information on my
 *Selected posters for which I was presenting author or the direct supervisor*
 
 2024
-- [specparam2.0: Spectral parameterization with time-resolved estimates and updated model forms](https://www.dropbox.com/scl/fi/55gmztx2dppfqjffn90wp/DonoghueEtal-FENS-specparam2.pdf?rlkey=37ad5dpibcjem4ruv02d8oo6k&st=hbzwisyv&dl=0)
+- [specparam2.0: Spectral parameterization with time-resolved estimates and updated model forms](https://www.dropbox.com/scl/fi/golmkqqskryw7vqpg3q2z/Poster-Donoghue-SfN24.pdf?rlkey=epjhrjhwbbpmfuxnsck8xi49c&st=n8ctzikx&dl=0)
 - [Conjunctive encoding in human place and time cells and their relation to spatial memory](https://www.dropbox.com/scl/fi/a1ov49ox615i35rxs95vb/DonoghueEtal-T3-iNav.pdf?rlkey=yqu3l5hfxnr244y20d8zlvbd1&st=ki6vmube&dl=0)
 
 2023
