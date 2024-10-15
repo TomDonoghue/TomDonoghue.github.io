@@ -20,6 +20,8 @@ You can also find this information on my
 
 *Preprints for articles currently under review*
 
+- [A systematic review of aperiodic neural activity in clinical investigations](https://doi.org/10.1101/2024.10.14.24314925)
+    - **Donoghue T**
 - [Evaluating and Comparing Measures of Aperiodic Neural Activity](https://doi.org/10.1101/2024.09.15.613114)
     - **Donoghue T**, Hammonds R, Eric Lybrand, Waschke L, Gao R, & Voytek B
 - [Aperiodic neural excitation of the prefrontal cortex offsets age-related decrease in hippocampal theta activity for spatial memory maintenance](https://doi.org/10.1101/2024.10.03.616418)
