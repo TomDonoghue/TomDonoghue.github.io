@@ -9,7 +9,6 @@ theme: jekyll-theme-cayman
 # Google analytics services
 google_analytics: UA-93965597-1
 
-twitter_username:     TomDonoghue
 github_username:      TomDonoghue
 
 # Options for kramdown markdown

@@ -13,7 +13,7 @@ layout: default
 
 Hello, I'm Tom! I'm a research scientist, working in the area of computational and cognitive neuroscience.
 I am currently a postdoctoral research scientist in the laboratory of
-[Dr. Joshua Jacobs](http://orion.bme.columbia.edu/jacobs/) at Columbia University.
+[Dr. Joshua Jacobs](https://jacobslab.bme.columbia.edu/) at Columbia University.
 Before that, I did my PhD with
 [Dr. Bradley Voytek](https://voyteklab.com/), at the University of California, San Diego.
 
@@ -73,7 +73,7 @@ If you'd like to get in touch, you can e-mail me at `tdonoghue.research@gmail.co
 
 You can also find me on
 [Github](https://github.com/TomDonoghue) or
-[Twitter](https://twitter.com/TomDonoghue).
+[Bluesky](https://bsky.app/profile/tomdonoghue.bsky.social).
 
 ### Website Source
 
