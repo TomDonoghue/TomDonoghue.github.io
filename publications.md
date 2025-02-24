@@ -39,19 +39,19 @@ You can also find this information on my
 
 2024
 
-- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes]
-(https://doi.org/10.1016/j.nbd.2023.106380)
- [[PDF]
- (https://www.dropbox.com/scl/fi/i5xb8ilri88d4qbd0ef32/Kop-anov-et-al.-2024-Resting-state-EEG-signatures-of-Alzheimer-s-diseas.pdf?rlkey=lsfv9fvga09m0chfwizp149hp&st=n0jesfl5&dl=0)]
+- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes][alzheimersDOI] [[PDF][alzheimersPDF]]
+    - Kopčanová M, Tait L, **Donoghue T**, Stothart G, Smith L, Flores-Sandoval AA, Davila-Perez P, Buss S, Shafi MM, Pascual-Leone A, Fried PJ, Benwell CSY
+
+- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes](https://doi.org/10.1016/j.nbd.2023.106380) [[PDF](https://www.dropbox.com/scl/fi/i5xb8ilri88d4qbd0ef32/Kop-anov-et-al.-2024-Resting-state-EEG-signatures-of-Alzheimer-s-diseas.pdf?rlkey=lsfv9fvga09m0chfwizp149hp&st=n0jesfl5&dl=0)]
     - Kopčanová M, Tait L, **Donoghue T**, Stothart G, Smith L, Flores-Sandoval AA, Davila-Perez P, Buss S, Shafi MM, Pascual-Leone A, Fried PJ, Benwell CSY
 
 2023
 
-- [spiketools: a Python package for analyzing single-unit neural activity](https://doi.org/10.21105/joss.05268)[[PDF](LINK)]
+- [spiketools: a Python package for analyzing single-unit neural activity](https://doi.org/10.21105/joss.05268) [[PDF](LINK)]
     - **Donoghue T**, Maesta Pereira S, Han CZ, Qasim SE, Jacobs J
-- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://doi.org/10.1002/hipo.23539)[[PDF](LINK)]
+- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://doi.org/10.1002/hipo.23539) [[PDF](LINK)]
     - **Donoghue T**, Cao R, Han CZ, Holman CM, Brandmeir NJ, Wang S, Jacobs J
-- [Using multi-task experiments to test principles of hippocampal function](https://doi.org/10.1002/hipo.23540)[[PDF](LINK)]
+- [Using multi-task experiments to test principles of hippocampal function](https://doi.org/10.1002/hipo.23540) [[PDF](LINK)]
     - Han CZ, **Donoghue T**, Cao R, Kunz L, Wang S, Jacobs J
 
 2022
@@ -167,3 +167,9 @@ You can also find this information on my
 
 2015
 - [Influencing Visual Target Detection with Oscillatory Phase-Specific Stimulus Presentation](https://www.dropbox.com/s/1o5whrrrukd5oy3/GougeletDonoghueEtal_RealTimePhasePresentation_SfN2015.pdf?dl=0)
+
+
+...
+
+[alzheimersDOI]: https://doi.org/10.1016/j.nbd.2023.106380
+[alzheimersPDF]: https://www.dropbox.com/scl/fi/i5xb8ilri88d4qbd0ef32/Kop-anov-et-al.-2024-Resting-state-EEG-signatures-of-Alzheimer-s-diseas.pdf?rlkey=lsfv9fvga09m0chfwizp149hp&st=n0jesfl5&dl=0
