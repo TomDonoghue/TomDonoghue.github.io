@@ -18,7 +18,7 @@ You can also find this information on my
 
 ## Preprints
 
-*Preprints for articles currently under review - all links are open-access preprint servers*
+*Preprints for articles currently under review - links are to open-access preprints*
 
 - [A historical overview of the study of aperiodic neural activity][aphDOI]
     - **Donoghue T**
@@ -35,7 +35,7 @@ You can also find this information on my
 
 ## Journal Articles
 
-*Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable PDF*
+*Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable copies*
 
 2024
 - [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes][2024_alzheimersDOI] [[PDF][2024_alzheimersPDF]]
@@ -66,9 +66,9 @@ You can also find this information on my
     - **Donoghue T**, Voytek B, Ellis SE
 
 2020
-- [Parameterizing neural power spectra into periodic and aperiodic components] [[PDF][2020_specparamPDF]]
+- [Parameterizing neural power spectra into periodic and aperiodic components][2020_specparamDOI] [[PDF][2020_specparamPDF]]
     - **Donoghue T**, Haller M, Peterson EJ, Varma P, Sebastian P, Gao R, Noto T, Lara AH, Wallis JD, Knight RT, Shestyuk A, Voytek B
-- [Electrophysiological Band-Ratio Measures Conflate Changes in Periodic and Aperiodic Activity] [[PDF][2020_bandratiosPDF]]
+- [Electrophysiological Band-Ratio Measures Conflate Changes in Periodic and Aperiodic Activity][2020_bandratiosDOI] [[PDF][2020_bandratiosPDF]]
     - **Donoghue T**, Dominguez J, Voytek B
 
 2019
@@ -83,7 +83,7 @@ You can also find this information on my
 
 2023
 
-- [How can we differentiate narrow-band oscillations from aperiodic activity?][peapDOI] [[PDF][peapPDF]]
+- [How can we differentiate narrow-band oscillations from aperiodic activity?][2023_peapDOI] [[PDF][2023_peapPDF]]
     - **Donoghue T**, Watrous AJ
 
 ## Conference Papers
@@ -210,7 +210,7 @@ You can also find this information on my
 [2023_peapDOI]: https://doi.org/10.1007/978-3-031-20910-9_22
 [2023_peapPDF]: https://www.dropbox.com/scl/fi/w7ija3siwttgmucaft7qf/Donoghue-and-Watrous-2023-How-Can-We-Differentiate-Narrow-Band-Oscillations.pdf?rlkey=x3ruvaso2puwhpogfaq757in4&st=3ex8uq2v&dl=0
 
-<! --- POSTER LINKS --->
+[POSTER LINKS]::
 
 [2024_SfN_specparam2]: (https://www.dropbox.com/scl/fi/golmkqqskryw7vqpg3q2z/Poster-Donoghue-SfN24.pdf?rlkey=epjhrjhwbbpmfuxnsck8xi49c&st=n8ctzikx&dl=0)
 [2024_iNav_T3]: (https://www.dropbox.com/scl/fi/a1ov49ox615i35rxs95vb/DonoghueEtal-T3-iNav.pdf?rlkey=yqu3l5hfxnr244y20d8zlvbd1&st=ki6vmube&dl=0)
