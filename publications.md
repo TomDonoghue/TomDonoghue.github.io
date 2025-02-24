@@ -88,22 +88,22 @@ You can also find this information on my
 
 ## Conference Papers
 
-*Selected peer reviewed, short papers, published in conference proceedings*
+*Selected peer reviewed, short papers, published in conference proceedings - titles link to PDF of the paper*
 
 2019
-- [A Simulation-Based Comparison of Methods for Analyzing Aperiodic Neural Activity](https://ccneuro.org/2019/proceedings/0000783.pdf)
+- [A Simulation-Based Comparison of Methods for Analyzing Aperiodic Neural Activity][2019_ccn_apm]
     - **Donoghue T**, Gao R, Waschke L, Voytek B
-- [Aperiodic EEG activity tracks 1/f stimulus characteristics and the allocation of cognitive resources](https://ccneuro.org/2019/proceedings/0000936.pdf)
+- [Aperiodic EEG activity tracks 1/f stimulus characteristics and the allocation of cognitive resources][2019_ccn_aperiodic]
     - Waschke L, **Donoghue T**, Smith S, Voytek B, Obleser J
-- [The Structure of Cognition Across Computational Cognitive Neuroscience](https://ccneuro.org/2019/proceedings/0001130.pdf)
+- [The Structure of Cognition Across Computational Cognitive Neuroscience][2019_ccn_cognition]
     - Gao R, Christiano D, **Donoghue T**, Voytek B
 
 2018
-- [Confidence Levels in Scientific Writing: Automated Mining of Primary Literature and Press Releases](http://mindmodeling.org/cogsci2018/papers/0323/0323.pdf)
+- [Confidence Levels in Scientific Writing: Automated Mining of Primary Literature and Press Releases][2018_cogsci_conf]
     - Fox W, **Donoghue T**
 
 2017
-- [Automated Generation of Cognitive Ontology via Web Text-Mining](https://mindmodeling.org/cogsci2017/papers/0395/paper0395.pdf)
+- [Automated Generation of Cognitive Ontology via Web Text-Mining][2017_cogsci_cogntion]
     - Gao R, **Donoghue T**, Voytek B
 
 ## Conference Posters
@@ -163,7 +163,7 @@ You can also find this information on my
 2015
 - [Influencing Visual Target Detection with Oscillatory Phase-Specific Stimulus Presentation][2015_SfN_RealTimePhase]
 
-<! --- PREPRINT DOI LINKS --->
+[PREPRINT DOI LINKS]::
 
 [aphDOI]: https://doi.org/10.31234/osf.io/zrvxa
 [apcDOI]: https://doi.org/10.1101/2024.10.14.24314925
@@ -172,7 +172,7 @@ You can also find this information on my
 [sleepapDOI]: https://doi.org/10.1101/2024.01.25.577204
 [apmDOI]: https://doi.org/10.1101/2024.09.15.613114
 
-<! --- PAPER DOI & PDF LINKS --->
+[PAPER DOI & PDF LINKS]::
 
 [2024_alzheimersDOI]: https://doi.org/10.1016/j.nbd.2023.106380
 [2024_alzheimersPDF]: https://www.dropbox.com/scl/fi/i5xb8ilri88d4qbd0ef32/Kop-anov-et-al.-2024-Resting-state-EEG-signatures-of-Alzheimer-s-diseas.pdf?rlkey=lsfv9fvga09m0chfwizp149hp&st=n0jesfl5&dl=0
@@ -205,10 +205,18 @@ You can also find this information on my
 [2019_neurodspDOI]: https://joss.theoj.org/papers/10.21105/joss.01272
 [2019_neurodspPDF]: https://www.dropbox.com/scl/fi/a0fykp41dpesta8znrozf/ColeEtal-2019-NeuroDSP.pdf?rlkey=olfaa7lcwi0as9ii9ycjqmo4l&st=opn54wn0&dl=0
 
-<! --- BOOK CHAPTER DOI & PDF LINKS --->
+[BOOK CHAPTER DOI & PDF LINKS]::
 
 [2023_peapDOI]: https://doi.org/10.1007/978-3-031-20910-9_22
 [2023_peapPDF]: https://www.dropbox.com/scl/fi/w7ija3siwttgmucaft7qf/Donoghue-and-Watrous-2023-How-Can-We-Differentiate-Narrow-Band-Oscillations.pdf?rlkey=x3ruvaso2puwhpogfaq757in4&st=3ex8uq2v&dl=0
+
+[CONFERENCE PAPER LINKS]::
+
+[2019_ccn_apm]: https://ccneuro.org/2019/proceedings/0000783.pdf
+[2019_ccn_aperiodic]: https://ccneuro.org/2019/proceedings/0000936.pdf
+[2019_ccn_cognition]: https://ccneuro.org/2019/proceedings/0001130.pdf
+[2018_cogsci_conf]: https://www.dropbox.com/scl/fi/ytkv87gj427l8k4ftxjwk/Fox-Donoghue-2018-Confidence_Levels_in_Scientific_Writing.pdf?rlkey=ak4xjtfg7frlteua1z6sx2hm9&st=930j5ej7&dl=0
+[2017_cogsci_cogntion]: https://www.dropbox.com/scl/fi/7gnaqhj79c4c0krhrvp55/GaoEtal-2017-Automated_Generation_of_Cognitive_Ontology_via_Web_Text-Mining.pdf?rlkey=qh2lkszg3bib6mota0074de43&st=vistb80m&dl=0
 
 [POSTER LINKS]::
 
