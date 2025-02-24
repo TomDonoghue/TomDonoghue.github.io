@@ -18,7 +18,7 @@ You can also find this information on my
 
 ## Preprints
 
-*Preprints for articles currently under review - all links are open-access*
+*Preprints for articles currently under review - all links are open-access preprint servers*
 
 - [A historical overview of the study of aperiodic neural activity](https://doi.org/10.31234/osf.io/zrvxa)
     - **Donoghue T**
@@ -39,16 +39,19 @@ You can also find this information on my
 
 2024
 
-- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes](https://doi.org/10.1016/j.nbd.2023.106380) [[PDF](https://www.dropbox.com/scl/fi/i5xb8ilri88d4qbd0ef32/Kop-anov-et-al.-2024-Resting-state-EEG-signatures-of-Alzheimer-s-diseas.pdf?rlkey=lsfv9fvga09m0chfwizp149hp&st=n0jesfl5&dl=0)]
+- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes]
+(https://doi.org/10.1016/j.nbd.2023.106380)
+ [[PDF]
+ (https://www.dropbox.com/scl/fi/i5xb8ilri88d4qbd0ef32/Kop-anov-et-al.-2024-Resting-state-EEG-signatures-of-Alzheimer-s-diseas.pdf?rlkey=lsfv9fvga09m0chfwizp149hp&st=n0jesfl5&dl=0)]
     - Kopčanová M, Tait L, **Donoghue T**, Stothart G, Smith L, Flores-Sandoval AA, Davila-Perez P, Buss S, Shafi MM, Pascual-Leone A, Fried PJ, Benwell CSY
 
 2023
 
-- [spiketools: a Python package for analyzing single-unit neural activity](https://doi.org/10.21105/joss.05268)
+- [spiketools: a Python package for analyzing single-unit neural activity](https://doi.org/10.21105/joss.05268)[[PDF](LINK)]
     - **Donoghue T**, Maesta Pereira S, Han CZ, Qasim SE, Jacobs J
-- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://doi.org/10.1002/hipo.23539)
+- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://doi.org/10.1002/hipo.23539)[[PDF](LINK)]
     - **Donoghue T**, Cao R, Han CZ, Holman CM, Brandmeir NJ, Wang S, Jacobs J
-- [Using multi-task experiments to test principles of hippocampal function](https://doi.org/10.1002/hipo.23540)
+- [Using multi-task experiments to test principles of hippocampal function](https://doi.org/10.1002/hipo.23540)[[PDF](LINK)]
     - Han CZ, **Donoghue T**, Cao R, Kunz L, Wang S, Jacobs J
 
 2022
@@ -90,7 +93,7 @@ You can also find this information on my
 
 ## Conference Papers
 
-*Peer reviewed, short papers, published in conference proceedings*
+*Selected peer reviewed, short papers, published in conference proceedings*
 
 2019
 - [A Simulation-Based Comparison of Methods for Analyzing Aperiodic Neural Activity](https://ccneuro.org/2019/proceedings/0000783.pdf)
@@ -110,9 +113,7 @@ You can also find this information on my
 
 ## Conference Posters
 
-*Selected posters for which I was presenting author or the direct supervisor*
-
-Links lead to PDF copies of the poster
+*Selected posters for which I was presenting author or the direct supervisor - titles link to PDF of the poster*
 
 2024
 - [specparam2.0: Spectral parameterization with time-resolved estimates and updated model forms](https://www.dropbox.com/scl/fi/golmkqqskryw7vqpg3q2z/Poster-Donoghue-SfN24.pdf?rlkey=epjhrjhwbbpmfuxnsck8xi49c&st=n8ctzikx&dl=0)
