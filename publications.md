@@ -18,7 +18,7 @@ You can also find this information on my
 
 ## Preprints
 
-*Preprints for articles currently under review*
+*Preprints for articles currently under review - all links are open-access*
 
 - [A historical overview of the study of aperiodic neural activity](https://doi.org/10.31234/osf.io/zrvxa)
     - **Donoghue T**
@@ -35,11 +35,11 @@ You can also find this information on my
 
 ## Journal Articles
 
-*Peer reviewed journal articles*
+*Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable PDF*
 
 2024
 
-- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes](https://doi.org/10.1016/j.nbd.2023.106380)
+- [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes](https://doi.org/10.1016/j.nbd.2023.106380) [[PDF](https://www.dropbox.com/scl/fi/i5xb8ilri88d4qbd0ef32/Kop-anov-et-al.-2024-Resting-state-EEG-signatures-of-Alzheimer-s-diseas.pdf?rlkey=lsfv9fvga09m0chfwizp149hp&st=n0jesfl5&dl=0)]
     - Kopčanová M, Tait L, **Donoghue T**, Stothart G, Smith L, Flores-Sandoval AA, Davila-Perez P, Buss S, Shafi MM, Pascual-Leone A, Fried PJ, Benwell CSY
 
 2023
@@ -85,7 +85,7 @@ You can also find this information on my
 
 2023
 
-- [How can we differentiate narrow-band oscillations from aperiodic activity?](https://doi.org/10.1007/978-3-031-20910-9_22)
+- [How can we differentiate narrow-band oscillations from aperiodic activity?](https://doi.org/10.1007/978-3-031-20910-9_22)[PDF](https://www.dropbox.com/scl/fi/w7ija3siwttgmucaft7qf/Donoghue-and-Watrous-2023-How-Can-We-Differentiate-Narrow-Band-Oscillations.pdf?rlkey=x3ruvaso2puwhpogfaq757in4&st=3ex8uq2v&dl=0)
     - **Donoghue T**, Watrous AJ
 
 ## Conference Papers
@@ -111,6 +111,8 @@ You can also find this information on my
 ## Conference Posters
 
 *Selected posters for which I was presenting author or the direct supervisor*
+
+Links lead to PDF copies of the poster
 
 2024
 - [specparam2.0: Spectral parameterization with time-resolved estimates and updated model forms](https://www.dropbox.com/scl/fi/golmkqqskryw7vqpg3q2z/Poster-Donoghue-SfN24.pdf?rlkey=epjhrjhwbbpmfuxnsck8xi49c&st=n8ctzikx&dl=0)
