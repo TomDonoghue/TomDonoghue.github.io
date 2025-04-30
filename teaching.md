@@ -19,9 +19,6 @@ Quick links to teaching materials that I have (co-) developed:
 [Course](https://github.com/COGS108) -
 [Public Site](https://datascienceinpractice.github.io/) -
 [Paper](https://doi.org/10.1080/10691898.2020.1860725)
-- Introduction to Cognitive Science:
-[Course Description](https://academicconnections.ucsd.edu/onlinecourses/intro-cogsci.html) -
-[Materials](https://github.com/TomDonoghue/CogSciClass)
 - Python Bootcamp:
 [Materials](https://nbviewer.jupyter.org/github/TomDonoghue/PythonBootcamp/blob/master/ProgrammingWithPython.ipynb?flush_cache=true) -
 [Source](https://github.com/TomDonoghue/PythonBootcamp)
@@ -35,14 +32,12 @@ The following are undergraduate level courses that I have developed and worked o
 I developed the introductory programming course 'COGS18: Introduction to Python'
 for the Cognitive Science department of UC San Diego, which I taught in Fall of 2018.
 The class is designed as a hands-on programming course to introduce cognitive science
-students to the Python programming language.
-This course is now taught and developed by
-[Professor Shannon Ellis](http://www.shanellis.com).
+students to the Python programming language. This course continues to be taught and developed.
 
 Materials for the course are available on
 [Github](https://github.com/cogs18).
 These materials are also hosted on a
-[course website](https://cogs18.github.io/intro/) for students in the class, as well as on a
+[course website](https://cogs18.github.io/) for students in the class, as well as on a
 [public facing website](https://introductorypython.github.io/).
 
 ### COGS108: Data Science in Practice
@@ -93,5 +88,3 @@ With co-instructor Eric Leonardis, we created a class for the
 program at UC San Diego, which offers intensive (75 hours of class over 3 weeks),
 undergraduate-level courses to advanced high school students.
 We taught this class together for three iterations, from 2015 to 2017.
-Details on this course, which continues to be taught, are available
-[here](https://academicconnections.ucsd.edu/courses/intro-cogsci.html).

@@ -23,7 +23,7 @@ I sometimes create animated visualizations to help demonstrate and explain metho
 
 You might see these visualizers show up on my
 [blog](blog.html), on
-[twitter](https://twitter.com/TomDonoghue),
+[Bluesky](https://bsky.app/profile/tomdonoghue.bsky.social),
 and/or in individual projects.
 
 ### Oscillation Methods Visualizers

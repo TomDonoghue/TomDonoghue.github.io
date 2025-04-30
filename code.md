@@ -22,7 +22,6 @@ My code is on Github, including on my
 [personal page](https://github.com/TomDonoghue), the
 [VoytekLab page](https://github.com/voytekresearch), and is indexed
 [here](https://github.com/TomDonoghue/TomDonoghue/blob/main/codemap.md).
-
 Note that code specifically related to
 [teaching](teaching.html)
 and/or
@@ -44,7 +43,7 @@ and parameterizes them into periodic and aperiodic components.
 
 [Github](https://github.com/fooof-tools/) -
 [Documentation](https://fooof-tools.github.io/fooof/) -
-[Pypi](https://pypi.org/project/fooof/)
+[PyPI](https://pypi.org/project/fooof/)
 
 ### NeuroDSP: neuro digital signal processing
 
@@ -57,7 +56,7 @@ including filtering, spectral analysis, time-frequency analysis, burst detection
 
 [Github](https://github.com/neurodsp-tools/neurodsp) -
 [Documentation](https://neurodsp-tools.github.io/) -
-[Pypi](https://pypi.org/project/neurodsp/)
+[PyPI](https://pypi.org/project/neurodsp/)
 
 ### LISC: literature scanner
 
@@ -70,7 +69,7 @@ scientific literature articles from them, with tools to analyze the collected re
 
 [Github](https://github.com/lisc-tools/lisc) -
 [Documentation](https://lisc-tools.github.io/) -
-[Pypi](https://pypi.org/project/lisc/)
+[PyPI](https://pypi.org/project/lisc/)
 
 ### SpikeTools: single-neuron analysis toolbox
 
@@ -82,7 +81,7 @@ a tool for analyzing single-unit neural data.
 
 [Github](https://github.com/spiketools/spiketools) -
 [Documentation](https://spiketools.github.io/) -
-[Pypi](https://pypi.org/project/spiketools/)
+[PyPI](https://pypi.org/project/spiketools/)
 
 ## Pipelines
 
