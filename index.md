@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 {:refdef: style="text-align: center;"}
 ![ME]({{ site.url }}/assets/pics/headshot.png)
 {: refdef}
@@ -12,7 +11,8 @@ layout: default
 {: refdef}
 
 Hello, I'm Tom! I'm a research scientist, working in the area of computational and cognitive neuroscience.
-I am currently a postdoctoral research scientist in the laboratory of
+Starting August, 2025 I will be a Lecturer of Cognitive Science at the University of Manchester!
+Until then, I am finishing my appointment as a postdoctoral research scientist in the laboratory of
 [Dr. Joshua Jacobs](https://jacobslab.bme.columbia.edu/) at Columbia University.
 Before that, I did my PhD with
 [Dr. Bradley Voytek](https://voyteklab.com/), at the University of California, San Diego.
@@ -40,32 +40,35 @@ On this site you can find out a bit about me and my work, including:
 ## Brief Profile
 
 I grew up in Quebec, Canada, in a small town full of ski hills and colourful autumn leaves.
-At univeristy, I studied Cognitive Science, a major I originally chose due to be able to explore multiple
-different areas, which led to become enamored with how interdisciplinary approaches allow for
-investigating broad and interesting questions from multiple distinct perspectives.
+At university, I studied Cognitive Science, a major I originally chose due to be able to explore
+multiple different areas, which led to and fostered my interest with how interdisciplinary
+approaches allow for investigating broad and interesting questions from multiple distinct perspectives.
+As I got more involved in research, I realized that a lot of the day-to-day work in psychology /
+neuroscience / cognitive science relies on developing and applying computational measures and analyses
+to often large and complex datasets. This started me down the path of furthering my understanding and
+skills in methods development, software, and computational analyses - all in the service of better
+investigating questions of interest in cognitive neuroscience.
 
-After getting involved in research, I decided to go to graduate school, where,I started to focus more
-on methods development and computational analyses, with a focus on questions about how best to measure and
-interpret features of interest in neural data. My grad school experience allowed me the flexibility to dive into
-scientific computing and open-source tool development, which have become key parts of my [work](code.html).
-This led me to a [research](research.html) focus on trying to understand electrical signals in the brain
-- investigating how we can measure them, and what they might mean in relation to cognition and disease.
-Now, working as a postdoc, my interests broadly cover topics such as investigating functional neural organization,
-methods development for neuro-electrophysiological data, and investigating how patterns of electrical neural
-activity relate to cognition and disease.
+In particular, I became interested in questions relating to how to best measure and interpret features
+of interest in neural data, especially with electrophysiology recordings of brain activity that can give
+us direct information on patterns of activity in the brain with high temporal precision.
+This led me to a [research](research.html) program focusing on trying to understand electrical
+signals in the brain - investigating how we can measure them, and what they might mean physiologically.
+In practice, this work often focuses on open-source tool development and other
+[code contributions](code.html). Ultimately, this work is in service of improving
+and supporting empirical work, and my work is embedded into empirical data analysis through the
+examination of openly available datasets and through collaborations, covering topics including
+investigating functional neural organization, methods development for neuro-electrophysiological data,
+and investigating how patterns of electrical neural activity relate to cognition and disease.
 
-I also think it's important to consider how we do science, including doing science that is
-transparent and accessible, such as by using and releasing open data and developing openly accessible
-tools and resources. I also think it's important to working towards making science more
-equitable and inclusive for all, and in this quest I try to learn from and work with groups and programs such as the
-[SPARK society](https://www.sparksociety.org/),
-[Cientifico Latino](https://www.cientificolatino.com/) and
-[Clubes de Ciencia](https://www.clubesdeciencia.mx/).
-
-Ultimately, one of my favorite things about working in science is getting to work with lots of amazing people.
-I have been extremely lucky to have some amazing mentors who have guided me in my journey so far.
-Everything I work on is some form of collaboration across many wonderful research assistants, collaborators,
-teaching assistants and code contributors whose work and contributions are reflected in everything I do.
+Ultimately, to me one of the main joys of science is getting to work with lots of interesting people,
+with all of my work drawing directly or indirectly from collaboration across many wonderful mentors,
+research assistants, colleagues, collaborators, teaching assistants and code contributors.
+I also think it's important to consider how we do science, developing and adopting approaches that
+are transparent and accessible (for example, using and releasing open data and developing openly
+accessible tools and [resources](resources.html)), and making sure we engage in science in ways that
+are equitable and inclusive for all. If you are interested in the work that I do, and/or would be
+interested in collaborating, please do not necessitate to get in contact!
 
 ## Contact
 
@@ -82,5 +85,5 @@ This website is hosted using
 and the source repository is available
 [here](https://github.com/TomDonoghue/TomDonoghue.github.io).
 
-This page is usually up to date. You can check the last updated date on website
+This page is usually fairly up to date. You can check the last updated date on website
 [update log](https://github.com/TomDonoghue/TomDonoghue.github.io/commits/main).
