@@ -10,11 +10,9 @@ layout: default
 # Welcome!
 {: refdef}
 
-Hello, I'm Tom! I'm a research scientist, working in the area of computational and cognitive neuroscience.
-Starting August, 2025 I will be a Lecturer of Cognitive Science at the University of Manchester!
-Until then, I am finishing my appointment as a postdoctoral research scientist in the laboratory of
-[Dr. Joshua Jacobs](https://jacobslab.bme.columbia.edu/) at Columbia University.
-Before that, I did my PhD with
+Hello, I'm Tom! I'm a Lecturer of Cognitive Neuroscience at the University of Manchester.
+Previously, I was a postdoctoral research scientist in the laboratory of
+[Dr. Joshua Jacobs](https://jacobslab.bme.columbia.edu/) at Columbia University, and did my PhD with
 [Dr. Bradley Voytek](https://voyteklab.com/), at the University of California, San Diego.
 
 My research is focused on electrophysiological recordings in human subjects, including
@@ -40,8 +38,8 @@ On this site you can find out a bit about me and my work, including:
 ## Brief Profile
 
 I grew up in Quebec, Canada, in a small town full of ski hills and colourful autumn leaves.
-At university, I studied Cognitive Science, a major I originally chose due to be able to explore
-multiple different areas, which led to and fostered my interest with how interdisciplinary
+At university, I studied Cognitive Science, a major I originally chose as it offered a way to
+study and explore multiple different topics and areas. This fostered my interest with how interdisciplinary
 approaches allow for investigating broad and interesting questions from multiple distinct perspectives.
 As I got more involved in research, I realized that a lot of the day-to-day work in psychology /
 neuroscience / cognitive science relies on developing and applying computational measures and analyses
@@ -50,8 +48,8 @@ skills in methods development, software, and computational analyses - all in the
 investigating questions of interest in cognitive neuroscience.
 
 In particular, I became interested in questions relating to how to best measure and interpret features
-of interest in neural data, especially with electrophysiology recordings of brain activity that can give
-us direct information on patterns of activity in the brain with high temporal precision.
+of interest in neural data, especially with electrophysiological recordings of brain activity that can
+provide direct information on patterns of activity in the brain with high temporal precision.
 This led me to a [research](research.html) program focusing on trying to understand electrical
 signals in the brain - investigating how we can measure them, and what they might mean physiologically.
 In practice, this work often focuses on open-source tool development and other
@@ -62,13 +60,13 @@ investigating functional neural organization, methods development for neuro-elec
 and investigating how patterns of electrical neural activity relate to cognition and disease.
 
 Ultimately, to me one of the main joys of science is getting to work with lots of interesting people,
-with all of my work drawing directly or indirectly from collaboration across many wonderful mentors,
+with all of my work drawing directly or indirectly from collaborations across many wonderful mentors,
 research assistants, colleagues, collaborators, teaching assistants and code contributors.
 I also think it's important to consider how we do science, developing and adopting approaches that
 are transparent and accessible (for example, using and releasing open data and developing openly
 accessible tools and [resources](resources.html)), and making sure we engage in science in ways that
 are equitable and inclusive for all. If you are interested in the work that I do, and/or would be
-interested in collaborating, please do not necessitate to get in contact!
+interested in collaborating, please do not hesitate to get in contact!
 
 ## Contact
 

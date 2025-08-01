@@ -181,10 +181,11 @@ To do so, I created a Python module for performing collection and analysis of th
 [here](https://github.com/lisc-tools/lisc), and described in this
 [paper](https://joss.theoj.org/papers/10.21105/joss.01674).
 
-This tool, which uses the PubMed API to find and collect relevant literature, allows us to systematically and automatically
-analyze large collections of scientific literature. For example, we did an automated meta-analysis of studies
-using event-related potentials (ERPs), using automated procedures to create data-driven summaries of ERPs.
-This project is described in this [paper](https://doi.org/10.1038/s41598-022-05939-9), and hosted on a
+This tool, which uses the PubMed API to find and collect relevant literature, allows us to systematically
+and automatically analyze large collections of scientific literature. For example, we did an automated
+meta-analysis of studies using event-related potentials (ERPs), using automated procedures to create
+data-driven summaries of ERPs. This project is described in this
+[paper](https://doi.org/10.1038/s41598-022-05939-9), and hosted on a
 [project website](http://erpscanr.github.io/).
 
 Working with [Richard Gao](http://www.rdgao.com/), this work has been generalized to explore
