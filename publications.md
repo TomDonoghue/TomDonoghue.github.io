@@ -22,8 +22,6 @@ You can also find this information on my
 
 - [A historical overview of the study of aperiodic neural activity][aphDOI]
     - **Donoghue T**
-- [A systematic review of aperiodic neural activity in clinical investigations][apcDOI]
-    - **Donoghue T**
 - [Dissociating contributions of theta and alpha from aperiodic neural activity in human visual working memory][apwmDOI]
     - van Engen Q, Chau G, Smith A, Adam KCS, **Donoghue T**, & Voytek B
 - [Evaluating and Comparing Measures of Aperiodic Neural Activity][apmDOI]
@@ -36,6 +34,10 @@ You can also find this information on my
 ## Journal Articles
 
 *Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable copies*
+
+2025
+- [A systematic review of aperiodic neural activity in clinical investigations][apcDOI]
+    - **Donoghue T**
 
 2024
 - [Resting-state EEG signatures of Alzheimer’s disease are driven by periodic but not aperiodic changes][2024_alzheimersDOI] [[PDF][2024_alzheimersPDF]]
@@ -166,14 +168,15 @@ You can also find this information on my
 [PREPRINT DOI LINKS]::
 
 [aphDOI]: https://doi.org/10.31234/osf.io/zrvxa
-[apcDOI]: https://doi.org/10.1101/2024.10.14.24314925
 [apwmDOI]: https://doi.org/10.1101/2024.12.16.628786
 [ieegapDOI]: https://doi.org/10.1101/2024.10.03.616418
-[sleepapDOI]: https://doi.org/10.1101/2024.01.25.577204
 [apmDOI]: https://doi.org/10.1101/2024.09.15.613114
+[sleepapDOI]: https://doi.org/10.1101/2024.01.25.577204
 
 [PAPER DOI & PDF LINKS]::
 
+[2025_apcDOI]: https://doi.org/10.1111/ejn.70255
+[2025_apcPDF]: https://www.dropbox.com/scl/fi/8zmhij6x0g4acfj595lm6/Donoghue-2025-A-Systematic-Review-of-Aperiodic-Neural-Activity-in-Clinical-Investigations.pdf?rlkey=yeyhzcd9ibzwkqzaiordmgzjp&st=grkz2wgn&dl=0
 [2024_alzheimersDOI]: https://doi.org/10.1016/j.nbd.2023.106380
 [2024_alzheimersPDF]: https://www.dropbox.com/scl/fi/i5xb8ilri88d4qbd0ef32/Kop-anov-et-al.-2024-Resting-state-EEG-signatures-of-Alzheimer-s-diseas.pdf?rlkey=lsfv9fvga09m0chfwizp149hp&st=n0jesfl5&dl=0
 [2023_spiketoolsDOI]: https://doi.org/10.21105/joss.05268
