@@ -36,7 +36,7 @@ You can also find this information on my
 *Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable copies*
 
 2025
-- [A systematic review of aperiodic neural activity in clinical investigations][2025_apcDOI] [[PDF][[2025_apcPDF]]
+- [A systematic review of aperiodic neural activity in clinical investigations][2025_apcDOI] [[PDF][2025_apcPDF]]
     - **Donoghue T**
 
 2024
