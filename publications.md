@@ -28,14 +28,14 @@ You can also find this information on my
     - **Donoghue T**, Hammonds R, Eric Lybrand, Waschke L, Gao R, & Voytek B
 - [Aperiodic neural excitation of the prefrontal cortex offsets age-related decrease in hippocampal theta activity for spatial memory maintenance][ieegapDOI]
     - Park SE, **Donoghue T**, Jacobs J, Lee SA.
-- [The Temporal Dynamics of Aperiodic Neural Activity Track Changes in Sleep Architecture][sleepapDOI]
-    - Ameen MS, Jacobs J, Schabus M, Hoedlmoser K, **Donoghue T**
 
 ## Journal Articles
 
 *Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable copies*
 
 2025
+- [The Temporal Dynamics of Aperiodic Neural Activity Track Changes in Sleep Architecture][2025_sleepapDOI] [[PDF][2025_sleepapPDF]]
+    - Ameen MS, Jacobs J, Schabus M, Hoedlmoser K, **Donoghue T**
 - [A systematic review of aperiodic neural activity in clinical investigations][2025_apcDOI] [[PDF][2025_apcPDF]]
     - **Donoghue T**
 
@@ -171,10 +171,11 @@ You can also find this information on my
 [apwmDOI]: https://doi.org/10.1101/2024.12.16.628786
 [ieegapDOI]: https://doi.org/10.1101/2024.10.03.616418
 [apmDOI]: https://doi.org/10.1101/2024.09.15.613114
-[sleepapDOI]: https://doi.org/10.1101/2024.01.25.577204
 
 [PAPER DOI & PDF LINKS]::
 
+[2025_sleepapDOI]: https://doi.org/10.1038/s44271-025-00334-2
+[2025_sleepapPDF]: https://www.dropbox.com/scl/fi/k6451bgrhmtxczokzjh1t/Ameen-et-al.-2025-Temporally-resolved-analyses-of-aperiodic-features-track-neural-dynamics-during-sleep.pdf?rlkey=zr5l28fyb7mof1wq2zlmh51r0&st=02yphi97&dl=0
 [2025_apcDOI]: https://doi.org/10.1111/ejn.70255
 [2025_apcPDF]: https://www.dropbox.com/scl/fi/8zmhij6x0g4acfj595lm6/Donoghue-2025-A-Systematic-Review-of-Aperiodic-Neural-Activity-in-Clinical-Investigations.pdf?rlkey=yeyhzcd9ibzwkqzaiordmgzjp&st=grkz2wgn&dl=0
 [2024_alzheimersDOI]: https://doi.org/10.1016/j.nbd.2023.106380
