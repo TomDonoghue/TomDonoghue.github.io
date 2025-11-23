@@ -200,7 +200,7 @@ You can also find this information on my
 [2021_teachingdsPDF]: https://www.dropbox.com/scl/fi/gb28o809wf0d0eo58zh5q/Donoghue-et-al.-2020-Teaching-Creative-and-Practical-Data-Science-at-Sc.pdf?rlkey=x0syutn4p920u70emz59kd5a2&st=9zn53ka4&dl=0
 [2020_specparamDOI]: https://doi.org/10.1038/s41593-020-00744-x
 [2020_specparamPDF]: https://www.dropbox.com/scl/fi/3raj26yedh84vpl5jj5bx/DonoghueEtal-2020-Parameterizing_neural_power_spectra_into_periodic_and_aperiodic_components.pdf?rlkey=03uvqfspz21v8m4qb3t0b7aqz&st=5c2qjwc8&dl=0
-[2020_bandratiosDOI]: https://doi.org/10.1101/2020.01.11.900977
+[2020_bandratiosDOI]: https://doi.org/10.1523/ENEURO.0192-20.2020
 [2020_bandratiosPDF]: https://www.dropbox.com/scl/fi/ab9xp2dc015r7in8jlrrp/DonoghueEtal-2020-Electrophysiological_Frequency_Band_Ratio_Measures_Conflate_Periodic_and.pdf?rlkey=7yr4jampr0tpn1vfejm4egka3&st=y5c74tzx&dl=0
 [2019_adhdDOI]: https://doi.org/10.1152/jn.00388.2019
 [2019_adhdPDF]: https://www.dropbox.com/scl/fi/w65tsws1ow20jepom0f5z/RobertsonEtal-2019-EEG_Power_Spectral_Slope_differs_by_ADHD_status_and_stimulant_medication.pdf?rlkey=sspt21mnzzxngqrlkjcve2vmw&st=jz3sow6r&dl=0
