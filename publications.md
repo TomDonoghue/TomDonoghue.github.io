@@ -34,7 +34,7 @@ You can also find this information on my
 *Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable copies*
 
 2026
-- [Dissociating contributions of theta and alpha from aperiodic neural activity in human visual working memory][apwmDOI] [[PDF][2026_apwmPDF]]
+- [Dissociating contributions of theta and alpha from aperiodic neural activity in human visual working memory][2026_apwmDOI] [[PDF][2026_apwmPDF]]
     - van Engen Q, Chau G, Smith A, Adam KCS, **Donoghue T**, & Voytek B
 
 2025
