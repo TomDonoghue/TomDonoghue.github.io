@@ -22,8 +22,6 @@ You can also find this information on my
 
 - [A historical overview of the study of aperiodic neural activity][aphDOI]
     - **Donoghue T**
-- [Dissociating contributions of theta and alpha from aperiodic neural activity in human visual working memory][apwmDOI]
-    - van Engen Q, Chau G, Smith A, Adam KCS, **Donoghue T**, & Voytek B
 - [Evaluating and Comparing Measures of Aperiodic Neural Activity][apmDOI]
     - **Donoghue T**, Hammonds R, Eric Lybrand, Waschke L, Gao R, & Voytek B
 - [Aperiodic neural excitation of the prefrontal cortex offsets age-related decrease in hippocampal theta activity for spatial memory maintenance][ieegapDOI]
@@ -32,6 +30,10 @@ You can also find this information on my
 ## Journal Articles
 
 *Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable copies*
+
+2026
+- [Dissociating contributions of theta and alpha from aperiodic neural activity in human visual working memory][apwmDOI]  [[PDF][2025_apwmPDF]]
+    - van Engen Q, Chau G, Smith A, Adam KCS, **Donoghue T**, & Voytek B
 
 2025
 - [The Temporal Dynamics of Aperiodic Neural Activity Track Changes in Sleep Architecture][2025_sleepapDOI] [[PDF][2025_sleepapPDF]]
@@ -168,12 +170,12 @@ You can also find this information on my
 [PREPRINT DOI LINKS]::
 
 [aphDOI]: https://doi.org/10.31234/osf.io/zrvxa
-[apwmDOI]: https://doi.org/10.1101/2024.12.16.628786
 [ieegapDOI]: https://doi.org/10.1101/2024.10.03.616418
 [apmDOI]: https://doi.org/10.1101/2024.09.15.613114
 
 [PAPER DOI & PDF LINKS]::
-
+[2026_apwmDOI]: https://doi.org/10.1523/JNEUROSCI.2340-24.2025
+[2026_apwmPDF]: ToDo
 [2025_sleepapDOI]: https://doi.org/10.1038/s44271-025-00334-2
 [2025_sleepapPDF]: https://www.dropbox.com/scl/fi/k6451bgrhmtxczokzjh1t/Ameen-et-al.-2025-Temporally-resolved-analyses-of-aperiodic-features-track-neural-dynamics-during-sleep.pdf?rlkey=zr5l28fyb7mof1wq2zlmh51r0&st=02yphi97&dl=0
 [2025_apcDOI]: https://doi.org/10.1111/ejn.70255
