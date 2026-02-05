@@ -20,6 +20,8 @@ You can also find this information on my
 
 *Preprints for articles currently under review - links are to open-access preprints*
 
+- [Evaluating place cell detection methods in rats and humans - implications for cross-species spatial coding][pcmDOI]
+    Zhang W, **Donoghue T**, Qasim SE, Jacobs J
 - [A historical overview of the study of aperiodic neural activity][aphDOI]
     - **Donoghue T**
 - [Evaluating and Comparing Measures of Aperiodic Neural Activity][apmDOI]
@@ -169,6 +171,7 @@ You can also find this information on my
 
 [PREPRINT DOI LINKS]::
 
+[pcmDOI]: https://doi.org/10.1101/2025.08.29.672705
 [aphDOI]: https://doi.org/10.31234/osf.io/zrvxa
 [ieegapDOI]: https://doi.org/10.1101/2024.10.03.616418
 [apmDOI]: https://doi.org/10.1101/2024.09.15.613114
