@@ -34,7 +34,7 @@ You can also find this information on my
 *Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable copies*
 
 2026
-- [Dissociating contributions of theta and alpha from aperiodic neural activity in human visual working memory][2026_apwmDOI] [[PDF][2026_apwmPDF]]
+- [Dissociating contributions of theta and alpha from aperiodic neural activity in human visual working memory][2026_eegwmDOI] [[PDF][2026_eegwmPDF]]
     - van Engen Q, Chau G, Smith A, Adam KCS, **Donoghue T**, & Voytek B
 
 2025
@@ -177,8 +177,8 @@ You can also find this information on my
 [apmDOI]: https://doi.org/10.1101/2024.09.15.613114
 
 [PAPER DOI & PDF LINKS]::
-[2026_apwmDOI]: https://doi.org/10.1523/JNEUROSCI.2340-24.2025
-[2026_apwmPDF]: ToDo
+[2026_eegwmDOI]: https://doi.org/10.1523/JNEUROSCI.2340-24.2025
+[2026_eegwmPDF]: https://www.dropbox.com/scl/fi/77a2w830jy55gjvkph3is/Van-Engen-et-al.-2026-Dissociating-Contributions-of-Theta-and-Alpha-Oscillations-from-Aperiodic-Neural-Activity-in-Human-V.pdf?rlkey=f254q2h3za222h4e7g6dkwwzy&st=xlgr08fc&dl=0
 [2025_sleepapDOI]: https://doi.org/10.1038/s44271-025-00334-2
 [2025_sleepapPDF]: https://www.dropbox.com/scl/fi/k6451bgrhmtxczokzjh1t/Ameen-et-al.-2025-Temporally-resolved-analyses-of-aperiodic-features-track-neural-dynamics-during-sleep.pdf?rlkey=zr5l28fyb7mof1wq2zlmh51r0&st=02yphi97&dl=0
 [2025_apcDOI]: https://doi.org/10.1111/ejn.70255
