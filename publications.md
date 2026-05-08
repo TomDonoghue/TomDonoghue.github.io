@@ -34,6 +34,8 @@ You can also find this information on my
 *Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable copies*
 
 2026
+- [HSNPipeline: A processing pipeline for human single-neuron studies][2026_hsnDOI] [[PDF][2026_hsnPDF]]
+    - **Donoghue T**, Zhang W, Han CZ, Maesta-Pereira S, Jacobs J
 - [Dissociating contributions of theta and alpha from aperiodic neural activity in human visual working memory][2026_eegwmDOI] [[PDF][2026_eegwmPDF]]
     - van Engen Q, Chau G, Smith A, Adam KCS, **Donoghue T**, & Voytek B
 
@@ -177,6 +179,9 @@ You can also find this information on my
 [apmDOI]: https://doi.org/10.1101/2024.09.15.613114
 
 [PAPER DOI & PDF LINKS]::
+
+[2026_hsnDOI]: https://doi.org/10.52294/001c.160356
+[2026_hsnPDF]: https://www.dropbox.com/scl/fi/5gvfd5fz1zhh0zq5dy09g/DonoghueEtal-2026-hsnpipeline-a-processing-pipeline-for-human-single-neuron-studies.pdf?rlkey=4ahmna1hfnp084f1lzw9hh5aj&st=eci8vbn9&dl=0
 [2026_eegwmDOI]: https://doi.org/10.1523/JNEUROSCI.2340-24.2025
 [2026_eegwmPDF]: https://www.dropbox.com/scl/fi/77a2w830jy55gjvkph3is/Van-Engen-et-al.-2026-Dissociating-Contributions-of-Theta-and-Alpha-Oscillations-from-Aperiodic-Neural-Activity-in-Human-V.pdf?rlkey=f254q2h3za222h4e7g6dkwwzy&st=xlgr08fc&dl=0
 [2025_sleepapDOI]: https://doi.org/10.1038/s44271-025-00334-2
