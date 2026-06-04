@@ -32,7 +32,7 @@ and/or
 
 Below are a list of open-source Python packages that I work on.
 
-### SpecParam: spectral parameterization
+### specparam: spectral parameterization
 
 I am the lead developer of
 [specparam](https://github.com/fooof-tools/fooof)
@@ -45,7 +45,7 @@ and parameterizes them into periodic and aperiodic components.
 [Documentation](https://fooof-tools.github.io/fooof/) -
 [PyPI](https://pypi.org/project/fooof/)
 
-### NeuroDSP: neuro digital signal processing
+### neurodsp: neuro digital signal processing
 
 I am a co-developer of
 [neurodsp](https://github.com/neurodsp-tools/neurodsp),
@@ -71,13 +71,13 @@ scientific literature articles from them, with tools to analyze the collected re
 [Documentation](https://lisc-tools.github.io/) -
 [PyPI](https://pypi.org/project/lisc/)
 
-### SpikeTools: single-neuron analysis toolbox
+### spiketools: single-neuron analysis toolbox
 
 I am the lead developer of
 [spiketools](https://github.com/spiketools/spiketools),
-a tool for analyzing single-unit neural data.
+a tool for analyzing single-neuron neural data.
 
-`spiketools` is a collections of tools for processing and analyzing single-unit neural data.
+`spiketools` is a collections of tools for processing and analyzing single-neuron neural data.
 
 [Github](https://github.com/spiketools/spiketools) -
 [Documentation](https://spiketools.github.io/) -
@@ -87,20 +87,20 @@ a tool for analyzing single-unit neural data.
 
 Pipelines for processing particular datatypes.
 
-### Human Single-Unit Pipeline
+### Human Single-Neuron Pipeline
 
-`HSUPipeline` is a pipeline for processing and analyzing single-unit neural data from human subjects.
-It includes templates for pre-processing, organizing, and analyzing human single-unit data.
+`HSNPipeline` is a pipeline for processing and analyzing single-neuron neural data from human subjects.
+It includes templates for pre-processing, organizing, and analyzing human single-neuron data.
 
-[Github](https://github.com/HSUpipeline/) -
-[Website](https://hsupipeline.github.io/)
+[Github](https://github.com/HSNpipeline/) -
+[Website](https://hsnpipeline.github.io/)
 
 ## Project Code
 
 I also strive to make the code underlying individual projects openly available.
 
 The following project have openly available analysis code:
-- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://github.com/HSUpipeline/analyzeTH)
+- [Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks](https://github.com/HSNPipeline/analyzeTH)
 - [Frequency band ratio measures conflate periodic and aperiodic neural activity](https://github.com/voytekresearch/bandratios)
 - [Parameterizing neural power spectra into periodic and aperiodic components](https://github.com/fooof-tools/Paper)
 - [Methodological considerations for studying neural oscillations](https://github.com/OscillationMethods/OscillationMethods)
