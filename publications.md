@@ -20,8 +20,6 @@ You can also find this information on my
 
 *Preprints for articles currently under review - links are to open-access preprints*
 
-- [Evaluating place cell detection methods in rats and humans - implications for cross-species spatial coding][pcmDOI]
-    - Zhang W, **Donoghue T**, Qasim SE, Jacobs J
 - [A historical overview of the study of aperiodic neural activity][aphDOI]
     - **Donoghue T**
 - [Evaluating and Comparing Measures of Aperiodic Neural Activity][apmDOI]
@@ -34,6 +32,9 @@ You can also find this information on my
 *Peer reviewed journal articles - titles link to journal pages & PDF links to downloadable copies*
 
 2026
+
+- [Evaluating place cell detection methods in rats and humans - implications for cross-species spatial coding][2026_pcmDOI] [[PDF][2026_pcmPDF]]
+    - Zhang W, **Donoghue T**, Qasim SE, Jacobs J
 - [HSNPipeline: A processing pipeline for human single-neuron studies][2026_hsnDOI] [[PDF][2026_hsnPDF]]
     - **Donoghue T**, Zhang W, Han CZ, Maesta-Pereira S, Jacobs J
 - [Dissociating contributions of theta and alpha from aperiodic neural activity in human visual working memory][2026_eegwmDOI] [[PDF][2026_eegwmPDF]]
@@ -173,13 +174,14 @@ You can also find this information on my
 
 [PREPRINT DOI LINKS]::
 
-[pcmDOI]: https://doi.org/10.1101/2025.08.29.672705
 [aphDOI]: https://doi.org/10.31234/osf.io/zrvxa
 [ieegapDOI]: https://doi.org/10.1101/2024.10.03.616418
 [apmDOI]: https://doi.org/10.1101/2024.09.15.613114
 
 [PAPER DOI & PDF LINKS]::
 
+[2026_pcmDOI]: https://doi.org/10.1371/journal.pcbi.1013488
+[2026_pcmPDF]: https://www.dropbox.com/scl/fi/6pg28lemiu7wu10ifjmud/Zhang-et-al.-2026-Evaluating-place-cell-detection-methods-in-Rats-and-Humans-Implications-for-cross-species-spatial-c.pdf?rlkey=aq0njixad8w5tsi49wo1l0dsd&st=ndhdm6fx&dl=0
 [2026_hsnDOI]: https://doi.org/10.52294/001c.160356
 [2026_hsnPDF]: https://www.dropbox.com/scl/fi/5gvfd5fz1zhh0zq5dy09g/DonoghueEtal-2026-hsnpipeline-a-processing-pipeline-for-human-single-neuron-studies.pdf?rlkey=4ahmna1hfnp084f1lzw9hh5aj&st=eci8vbn9&dl=0
 [2026_eegwmDOI]: https://doi.org/10.1523/JNEUROSCI.2340-24.2025
