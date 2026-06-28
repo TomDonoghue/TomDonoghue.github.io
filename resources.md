@@ -45,14 +45,6 @@ especially as it relates to neural data.
 [Site](https://timeserieszoo.github.io/) -
 [Source](https://github.com/TimeSeriesZoo/)
 
-### Interactive Oscillation Visualization
-
-A small set of interactive visualizations about some common ideas in electrophysiology
-and time series analysis.
-
-[Site](http://icogsci1.ucsd.edu/~tdonoghu/) -
-[Source](https://github.com/TomDonoghue/osc_viz)
-
 ## Open Lists
 
 OpenLists is a collection of lists of available resources on for doing open science.
