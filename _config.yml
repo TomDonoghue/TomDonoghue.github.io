@@ -1,5 +1,5 @@
 title: 'Tom Donoghue, PhD'
-description: 'Some kind of Cognitive (Neuro?) Scientist'
+description: 'Lecturer in Cognitive Neuroscience'
 
 name: 'Tom Donoghue'
 url: https://tomdonoghue.github.io
@@ -9,7 +9,7 @@ theme: jekyll-theme-cayman
 # Google analytics services
 google_analytics: UA-93965597-1
 
-github_username:      TomDonoghue
+github_username: TomDonoghue
 
 # Options for kramdown markdown
 kramdown:

@@ -4,7 +4,7 @@ layout: default
 
 # Resources
 
-This page lists and links resources that I create and/or curate.
+This page lists resources that I create and/or curate.
 
 * Table of Contents
 {:toc}
@@ -19,7 +19,7 @@ organize my own work, and share it with others, which are listed and made availa
 
 ## Visualizations
 
-I sometimes create animated visualizations to help demonstrate and explain methods and analyses.
+I create animated visualizations to help demonstrate and explain methods and analyses.
 
 You might see these visualizers show up on my
 [blog](blog.html), on
@@ -34,15 +34,16 @@ describing methodological considerations
 for measuring and interpreting periodic neural activity.
 
 [Site](https://oscillationmethods.github.io/docs/viz.html) -
-[Source](https://github.com/OscillationMethods/Visualizers)
+[Source](https://github.com/OscillationMethods/Visualizers) -
+[Paper](https://doi.org/10.1111/ejn.15361)
 
 ### Digital Signal Processing Visualizers
 
 A collection of animated plots and gifs for topics related to  digital signal processing (DSP),
 especially as it relates to neural data.
 
-[Site](https://tomdonoghue.github.io/SigViz/) -
-[Source](https://github.com/TomDonoghue/SigViz)
+[Site](https://timeserieszoo.github.io/) -
+[Source](https://github.com/TimeSeriesZoo/)
 
 ### Interactive Oscillation Visualization
 

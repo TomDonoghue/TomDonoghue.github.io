@@ -19,8 +19,8 @@ software tools, releasing code for my research projects (see the [research page]
 and well as developing code-related teaching materials (see the [teaching page](teaching.html)).
 
 My code is on Github, including on my
-[personal page](https://github.com/TomDonoghue), the
-[VoytekLab page](https://github.com/voytekresearch), and is indexed
+[personal page](https://github.com/TomDonoghue),
+and across other organizations, all of which is indexed
 [here](https://github.com/TomDonoghue/TomDonoghue/blob/main/codemap.md).
 Note that code specifically related to
 [teaching](teaching.html)
@@ -38,12 +38,13 @@ I am the lead developer of
 [specparam](https://github.com/fooof-tools/fooof)
 (formerly called `fooof`), a tool for parameterizing neural power spectra.
 
-`specparam` is a method for spectral parameterization, which takes in frequency representations of data,
-and parameterizes them into periodic and aperiodic components.
+`specparam` is a method for spectral parameterization, to measure
+periodic and aperiodic components from frequency domain representations.
 
 [Github](https://github.com/fooof-tools/) -
 [Documentation](https://fooof-tools.github.io/fooof/) -
-[PyPI](https://pypi.org/project/fooof/)
+[PyPI](https://pypi.org/project/fooof/) -
+[Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### neurodsp: neuro digital signal processing
 
@@ -56,7 +57,8 @@ including filtering, spectral analysis, time-frequency analysis, burst detection
 
 [Github](https://github.com/neurodsp-tools/neurodsp) -
 [Documentation](https://neurodsp-tools.github.io/) -
-[PyPI](https://pypi.org/project/neurodsp/)
+[PyPI](https://pypi.org/project/neurodsp/) -
+[Paper](https://doi.org/10.21105/joss.01272)
 
 ### LISC: literature scanner
 
@@ -69,7 +71,8 @@ scientific literature articles from them, with tools to analyze the collected re
 
 [Github](https://github.com/lisc-tools/lisc) -
 [Documentation](https://lisc-tools.github.io/) -
-[PyPI](https://pypi.org/project/lisc/)
+[PyPI](https://pypi.org/project/lisc/) -
+[Paper](https://doi.org/10.21105/joss.01674)
 
 ### spiketools: single-neuron analysis toolbox
 
@@ -81,7 +84,8 @@ a tool for analyzing single-neuron neural data.
 
 [Github](https://github.com/spiketools/spiketools) -
 [Documentation](https://spiketools.github.io/) -
-[PyPI](https://pypi.org/project/spiketools/)
+[PyPI](https://pypi.org/project/spiketools/) -
+[Paper](https://doi.org/10.21105/joss.05268 )
 
 ## Pipelines
 
@@ -93,7 +97,8 @@ Pipelines for processing particular datatypes.
 It includes templates for pre-processing, organizing, and analyzing human single-neuron data.
 
 [Github](https://github.com/HSNpipeline/) -
-[Website](https://hsnpipeline.github.io/)
+[Website](https://hsnpipeline.github.io/) -
+[Paper](https://doi.org/10.52294/001c.160356)
 
 ## Project Code
 
