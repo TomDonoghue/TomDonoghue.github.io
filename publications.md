@@ -20,6 +20,8 @@ You can also find this information on my
 
 *Preprints for articles currently under review - links are to open-access preprints*
 
+- [Altered aperiodic EEG activity in adolescents with Neurofibromatosis Type 1][nf1DOI]
+    - Litwinczuk MC, **Donoghue T**, Taylor JR, Pobric G, Lea-Carnall CA, Garg S
 - [A historical overview of the study of aperiodic neural activity][aphDOI]
     - **Donoghue T**
 - [Evaluating and Comparing Measures of Aperiodic Neural Activity][apmDOI]
@@ -174,6 +176,7 @@ You can also find this information on my
 
 [PREPRINT DOI LINKS]::
 
+[nf1DOI]: https://doi.org/10.64898/2026.09.28.754984
 [aphDOI]: https://doi.org/10.31234/osf.io/zrvxa
 [ieegapDOI]: https://doi.org/10.1101/2024.10.03.616418
 [apmDOI]: https://doi.org/10.1101/2024.09.15.613114
