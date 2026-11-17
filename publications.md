@@ -20,6 +20,8 @@ You can also find this information on my
 
 *Preprints for articles currently under review - links are to open-access preprints*
 
+- [Subtractive and divisive methods for isolating neural oscillations from broadband activity yield different, even conflicting, power estimates][additivityDOI]
+    - Gyurkovics M, Cunningham E, Low KA, Clements GM, Kałamała P, Beck DM, Voytek B, Fabiani M, **Donoghue T**, Gratton G
 - [Altered aperiodic EEG activity in adolescents with Neurofibromatosis Type 1][nf1DOI]
     - Litwinczuk MC, **Donoghue T**, Taylor JR, Pobric G, Lea-Carnall CA, Garg S
 - [A historical overview of the study of aperiodic neural activity][aphDOI]
@@ -176,6 +178,7 @@ You can also find this information on my
 
 [PREPRINT DOI LINKS]::
 
+[additivityDOI]: https://doi.org/10.64898/2026.11.14.766643
 [nf1DOI]: https://doi.org/10.64898/2026.09.28.754984
 [aphDOI]: https://doi.org/10.31234/osf.io/zrvxa
 [ieegapDOI]: https://doi.org/10.1101/2024.10.03.616418
